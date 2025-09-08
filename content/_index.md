@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm Youmin Li (李友民), a PhD student/Research assisstant in the EIAP team at FRE - CALS - IFAS - University Florida. I interested in interdisplinary of machine learning, GIS and Remote Sensing application in AgEcon research.  
+        I'm Youmin Li (李友民), a PhD student/Research assistant in UF/IFAS/EIAP. I interested in interdisciplinary of machine learning, GIS and Remote Sensing application in AgEcon research.  
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of agricultural science and technology in the Rangeland AgEconomy. I grow up in Inner Mongolia - China, and enjoy the prairie life. That's why I passionate in rangeland AgEcon.
     
         Please reach out to collaborate 😃
