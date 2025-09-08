@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
@@ -50,7 +50,7 @@ interests:
   - GIS and Remote Senssing Application in AgEcon
 
 education:
-  - area: PhD AgEcon 
+  - area: PhD Agricultural Economics
     institution: University of Florida
     date_start: 2024-08-01
     date_end: 2028-05-31
@@ -60,7 +60,7 @@ education:
       text: 'Read Thesis'
       url: 'notyet'
   - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
-    institution: UGent (Belgium), Humboldt Univ zu Belin (Germany), Seoul National University (South Korea), RUC (China)
+    institution: UGent (Belgium), Humboldt Univ zu Berlin (Germany), Seoul National University (South Korea), RUC (China)
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
@@ -159,7 +159,7 @@ awards:
     awarder: AAEA
     icon: <i class="fas fa-university"></i> 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I studied the foundational concept of . By the end, I was familiar with the significant; and apply deep learning to your own applications.
   - title: Grinter Fellowship
     url: 
     date: '2024-03-01'
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Youmin Li (李友民) is a PhD student of AgEcon at the Economic Impact Analysis Program center (EIAP) - Food and Resource Economics Department - CALS - IFAS - University of Florida. His research interests include AgEcon policy, mechine learning, GIS and Remote Sensing application in AgEcon. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
+Youmin Li (李友民) is a PhD student of UF/IFAS EIAP. His research interests include Agricultural policy, machine learning, GIS and Remote Sensing application. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
