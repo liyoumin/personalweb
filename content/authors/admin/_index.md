@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Youmin Li (李友民) is a PhD student of UF/IFAS EIAP. His research interests include Agricultural policy, machine learning, GIS and Remote Sensing application. He has multi-countires studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
+Youmin Li (李友民) is a PhD student of UF/IFAS EIAP. His research interests include Agricultural policy, machine learning, GIS and Remote Sensing application. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
