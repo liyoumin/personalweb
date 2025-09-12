@@ -60,7 +60,7 @@ education:
       text: 'Read Thesis'
       url: 'notyet'
   - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
-    institution: UGent (Belgium), Humboldt University zu Berlin (Germany), Seoul National University (South Korea), RUC (China)
+    institution: Ghent University (Belgium), Humboldt University zu Berlin (Germany), Seoul National University (South Korea), RUC (China)
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
@@ -84,7 +84,7 @@ education:
       - Summer School of Econometric for graduate students in Jiangsu Province Government
 
 work:
-  - position: RA
+  - position: RA  
     company_name: University of Florida
     company_url: ''
     company_logo: ''
@@ -95,7 +95,7 @@ work:
       - EIAP
       - EDIS
       - Livestock and Rangeland
-  - position: TA
+  - position: TA  
     company_name: University of Florida
     company_url: ''
     company_logo: ''
