@@ -39,8 +39,7 @@ sections:
     
         Please reach out to collaborate 😃
     
-        Refer association: AAEA, SAEA, NAREA, AARES, CARES, EAAE, IFAMA, KAEA.      Student Membershi
-
+        Refer Association Student Membership: AAEA, SAEA, NAREA, AARES, CARES, EAAE, IFAMA, KAEA.     
     design:
       columns: '1'
   - block: collection
