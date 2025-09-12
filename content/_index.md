@@ -40,7 +40,6 @@ sections:
         Please reach out to collaborate 😃
     
         Refer association: AAEA, SAEA, NAREA, AARES, CARES, EAAE, IFAMA, KAEA.      Student Membershi
-    p<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/4e64f8dd-947c-4a15-b2a8-3b97a51415f2" />
 
     design:
       columns: '1'
