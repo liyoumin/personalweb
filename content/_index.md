@@ -38,6 +38,7 @@ sections:
        I am interested in interdisciplinary of machine learning, GIS and Remote Sensing application in AgEcon research. I apply a range of qualitative and quantitative methods to comprehensively investigate the role of agricultural science and technology in the Rangeland AgEconomy. I grow up in Inner Mongolia - China, and enjoy the prairie life. That's why I passionate in rangeland AgEcon.
     
         Please reach out to collaborate 😃
+    
         Refer association: AAEA, SAEA, NAREA, AARES, CARES, EAAE, IFAMA, KAEA.      Student Membershi
     p<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/4e64f8dd-947c-4a15-b2a8-3b97a51415f2" />
 
