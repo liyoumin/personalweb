@@ -50,7 +50,7 @@ interests:
   - GIS and Remote Senssing Application in AgEcon
 
 education:
-  - area: PhD Agricultural Economics
+  - area: PhD Agricultural Economics (expect 2018 May)
     institution: University of Florida
     date_start: 2024-08-01
     date_end: 2028-05-31
