@@ -55,12 +55,12 @@ education:
     date_start: 2024-08-01
     date_end: 2028-05-31
     summary: |
-      Three Essays on . Supervised by [Dr. Qiao, Dr. Court, Dr. Weng](https://example.com). Presented papers at AAEA conferences with the contributions being published in journals.
+      Three Essays on not yet.
     button:
       text: 'Read Thesis'
       url: 'notyet'
   - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
-    institution: UGent (Belgium), Humboldt Univ zu Berlin (Germany), Seoul National University (South Korea), RUC (China)
+    institution: UGent (Belgium), Humboldt University zu Berlin (Germany), Seoul National University (South Korea), RUC (China)
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Youmin Li (李友民) is a PhD student of UF/IFAS EIAP. His research interests include Agricultural policy, machine learning, GIS and Remote Sensing application. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
+Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests include Agricultural policy, machine learning, GIS and Remote Sensing application. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S.
