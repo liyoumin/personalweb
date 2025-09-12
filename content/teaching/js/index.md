@@ -5,7 +5,7 @@ date: 2024-08-16
 type: docs
 math: false
 tags:
-  - Excel, Sata
+  - Excel, Stata
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
