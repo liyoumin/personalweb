@@ -18,9 +18,7 @@ publication_types: ["article"]
 publication: "Target: Journal of Agricultural and Food Economics"
 publication_short: "AFE"
 
-abstract: This study recognized how consumer perceptions shape olive oil consumption choices, combining unsupervised learning for data quality and structure detection with supervised models for prediction and inference. Using exploratory factor analysis to condense multi-item perception constructs, clustering to identify respondent archetypes and remove low-quality responses, and penalized models ensembles to predict consumption preference, we quantify (i) which perceptions matter most (EFA-PCA), (ii) how effects
-vary across consumer segments (Cluster and SEM), and (iii) out-of-sample performance under K-fold cross-validation. Results indicate that quality perceptions, taste imagery
-and price sensitivity are the dominant drivers, with heterogeneity across income and region.
+abstract: This study recognized how consumer perceptions shape olive oil consumption choices, combining unsupervised learning for data quality and structure detection with supervised models for prediction and inference. Using exploratory factor analysis to condense multi-item perception constructs, clustering to identify respondent archetypes and remove low-quality responses, and penalized models ensembles to predict consumption preference, we quantify (i) which perceptions matter most (EFA-PCA), (ii) how effects vary across consumer segments (Cluster and SEM), and (iii) out-of-sample performance under K-fold cross-validation. Results indicate that quality perceptions, taste imagery and price sensitivity are the dominant drivers, with heterogeneity across income and region.
 
 # Summary. An optional shortened abstract.
 summary: Olive oil, Consumer behavior, Agricultural food, Machine Learning (supervised and unsupervised)
