@@ -16,7 +16,7 @@ date: "2025-06-01T00:00:00Z"
 doi: "10.22004/ag.econ.361165"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-01T00:00:00Z"
+publishDate: "2025-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -39,8 +39,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.32473/EDIS-FE1167-2025
+url_code: 'https://doi.org/10.32473/EDIS-FE1167-2025'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -78,4 +78,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. [code, math, and images](https://doi.org/10.32473/EDIS-FE1167-2025).
