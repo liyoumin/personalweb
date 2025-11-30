@@ -5,7 +5,7 @@ date: 2025-01-20
 type: docs
 math: false
 tags:
-  - Python
+  - R
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
