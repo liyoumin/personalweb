@@ -1,8 +1,8 @@
 ---
-title: "Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program"
+title: "Consumer Perception Impacts on Olive Oil Consumption Choice: A Case Study Using Machine Learning. "
 authors:
 - admin
-- Weizhe Weng, Jared Gars, Micheal Olexa, Suzanne Thornsbury
+- 
 date: "2025-04-07T00:00:00Z"
 doi: ""
 
@@ -15,17 +15,19 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Choices"
-publication_short: "AAEA"
+publication: "Target: Journal of Agricultural and Food Economics"
+publication_short: "AFE"
 
-abstract: The transition to sustainable agriculture has underscored the critical role of Payment for Ecosystem Services (PES) programs in addressing environmental challenges while supporting agricultural productivity. This paper examines the Northern Everglades Payment for Environmental Services Program (NE-PES) as a case study to derive insights for designing cost-effective and collaborative PES programs. The NE-PES program implemented a hybrid payment scheme that integrates action-based and results-based contracts, enhancing economic efficiency and accountability. Advanced monitoring technologies, such as hydrological modeling and remote sensing, support accurate verification of service delivery, fostering trust among diverse stakeholders. Despite its achievements, challenges such as scalability, integration of diverse ecosystem services, and stakeholder heterogeneity highlight the need for innovative approaches in program design and implementation. The findings from this paper highlight cost efficiency of PES contract design. The paper also offered strategies to address scalability and integration for policymakers and practitioners as PES programs expand under climate-smart agricultural policies.
+abstract: This study recognized how consumer perceptions shape olive oil consumption choices, combining unsupervised learning for data quality and structure detection with supervised models for prediction and inference. Using exploratory factor analysis to condense multi-item perception constructs, clustering to identify respondent archetypes and remove low-quality responses, and penalized models ensembles to predict consumption preference, we quantify (i) which perceptions matter most (EFA-PCA), (ii) how effects
+vary across consumer segments (Cluster and SEM), and (iii) out-of-sample performance under K-fold cross-validation. Results indicate that quality perceptions, taste imagery
+and price sensitivity are the dominant drivers, with heterogeneity across income and region.
 
 # Summary. An optional shortened abstract.
-summary: Payment to Ecosystem Services; Contract Design; Sustainable Agriculture, Monitoring, Measuring, Reporting, and Verification.
+summary: Olive oil, Consumer behavior, Agricultural food, Machine Learning (supervised and unsupervised)
 
 
 tags:
-- Ecosystem services
+- Machine learning
 
 featured: true
 
