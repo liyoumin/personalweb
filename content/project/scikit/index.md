@@ -11,6 +11,6 @@ tags:
 
 “Impact of Drought on U.S. Alfalfa Production".
 
-[📄 Download full paper](alf_prod.pdf){ .btn .btn-primary }
+[📄 Download full paper](Drought_impacts_on_alfalfa.pdf){ .btn .btn-primary }
 
 <!--more-->
