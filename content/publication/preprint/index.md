@@ -24,19 +24,22 @@ abstract: This study recognized how consumer perceptions shape olive oil consump
 # Summary. An optional shortened abstract.
 summary: Olive oil, Consumer behavior, Agricultural food, Machine Learning (supervised and unsupervised)
 
-url_pdf: "Machine_learning_project.pdf"
+
 tags:
 - Machine learning
 
 featured: true
 
 links:
+- name: PDF
+    url: "Machine_learning_project.pdf"
+    icon: file-pdf
 - name: DOI
   url: https://doi.org/10.22004/ag.econ.361165
 
 # 👉 Local PDF file in this publication's folder
 
-url_pdf: 'Machine_learning_project.pdf'
+url_pdf: "Machine_learning_project.pdf"
 url_code: ''
 url_dataset: '#'
 url_poster: '#'
