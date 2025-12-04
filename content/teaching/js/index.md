@@ -11,6 +11,7 @@ image:
 ---
 
 Machine learning methods are increasingly used in agricultural economics to model non-linear relationships, improve prediction, classify heterogeneous farmers/consumers, and analyze high-dimensional climate or remote-sensing data. The distinction between supervised and unsupervised learning depends on whether the outcome variable is known.
+
 **Consumer Perception Impacts on Olive Oil Consumption Choice: A Case Study Using Machine Learning Approach**
 
 On this page, you'll find my presentation and some useful technical content.
@@ -21,9 +22,14 @@ Teach course by sharing videos.
 
 **Video file**
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+Below we **embed your own video file** `ambient-paino.mp4` using the Hugo Blox `video` shortcode:
 
-    {{</* video src="ambient-paino" controls="yes" */>}}
+{{< video src="ambient-paino.mp4" controls="yes" >}}
+
+If `ambient-paino.mp4` is placed in this page's folder (page bundle) or in `assets/media/`, Hugo Blox will automatically find it.
+
+---
+
 
 ## Podcast
 
