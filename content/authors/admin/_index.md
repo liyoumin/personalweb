@@ -191,5 +191,5 @@ awards:
 
 Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests include Agricultural policy, machine learning, GIS and Remote Sensing application. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S. 
 Current working projects: International trade: { url: https://liyoumin.github.io/personalweb/publication/conference-paper/conference-paper.pdf }; 
-Olive oil consumption using Machine learning {url: https://www.overleaf.com/read/jvdndzkrbfst#67296b}; 
-Drought impacts on alfalfa {url: https://www.overleaf.com/read/phswdtryktty#a0cfad};
+Olive oil consumption using Machine learning {url: https://liyoumin.github.io/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf }; 
+Drought impacts on alfalfa {url: https://liyoumin.github.io/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf };
