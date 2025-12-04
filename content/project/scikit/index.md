@@ -2,7 +2,7 @@
 title: Impact of Drought on U.S. Alfalfa Production
 date: 2025-10-26
 # Link directly to your PDF on Overleaf
-url_pdf: "alf_prod.pdf"
+url_pdf: "Drought_impacts_on_alfalfa.pdf"
 tags:
   - Geo-computation
   - Machine learning
