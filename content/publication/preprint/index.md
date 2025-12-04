@@ -33,7 +33,7 @@ featured: true
 links:
 - name: PDF
     url: "Machine_learning_project.pdf"
-    icon: file-pdf
+
 - name: DOI
   url: https://doi.org/10.22004/ag.econ.361165
 
