@@ -2,7 +2,8 @@
 title: "Consumer Perception Impacts on Olive Oil Consumption Choice: A Case Study Using Machine Learning. "
 authors:
 - admin
-- 
+
+
 date: "2025-04-07T00:00:00Z"
 doi: ""
 
@@ -23,7 +24,7 @@ abstract: This study recognized how consumer perceptions shape olive oil consump
 # Summary. An optional shortened abstract.
 summary: Olive oil, Consumer behavior, Agricultural food, Machine Learning (supervised and unsupervised)
 
-
+url_pdf: "Machine_learning_project.pdf"
 tags:
 - Machine learning
 
@@ -36,7 +37,7 @@ links:
 # 👉 Local PDF file in this publication's folder
 
 url_pdf: 'Machine_learning_project.pdf'
-url_code: 
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
