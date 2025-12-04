@@ -11,7 +11,7 @@ image:
 ---
 
 Machine learning methods are increasingly used in agricultural economics to model non-linear relationships, improve prediction, classify heterogeneous farmers/consumers, and analyze high-dimensional climate or remote-sensing data. The distinction between supervised and unsupervised learning depends on whether the outcome variable is known.
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+**Consumer Perception Impacts on Olive Oil Consumption Choice: A Case Study Using Machine Learning Approach**
 
 On this page, you'll find my presentation and some useful technical content.
 
