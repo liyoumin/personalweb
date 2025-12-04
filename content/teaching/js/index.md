@@ -22,7 +22,7 @@ Teach course by sharing videos.
 
 **Video file**
 
-Below we **embed your own video file** `ambient-paino.mp4` using the Hugo Blox `video` shortcode:
+Project presentation:
 
 {{< video src="ambient-paino.mp4" controls="yes" >}}
 
