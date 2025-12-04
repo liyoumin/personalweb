@@ -35,7 +35,6 @@ links:
   url: https://doi.org/10.22004/ag.econ.361165
 
 # 👉 Local PDF file in this publication's folder
-[📄 Open the PDF](Machine_learning_project.pdf)
 
 url_pdf: "Machine_learning_project.pdf"
 url_code: ''
