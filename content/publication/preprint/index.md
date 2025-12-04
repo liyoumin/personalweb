@@ -32,6 +32,17 @@ featured: true
 links:
 - name: DOI
   url: https://doi.org/10.22004/ag.econ.361165
+
+# 👉 Local PDF file in this publication's folder
+url_pdf: "Machine_learning_project.pdf"
+
+url_code: 
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 url_pdf: 
 url_code: 
 url_dataset: '#'
