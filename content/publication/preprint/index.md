@@ -56,6 +56,9 @@ image:
   focal_point: ""
   preview_only: false
 
+projects:
+  - internal-project
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -71,6 +74,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
