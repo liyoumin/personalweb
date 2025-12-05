@@ -18,16 +18,16 @@ date: '2025-07-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Accepts a single type but formatted as a YAML list .
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Agricultural & Applied Economics Association*
-publication_short: In *AAEA*
+publication_short: In *AAEA&WAEA*
 
 abstract: The trade war was triggered by US concerns about the trade deficit, intellectual property theft, and unfair trade practices. This paper studied the far-reaching impacts of the U.S.- China trade war on agricultural trade dynamics, focusing on the Chinese dairy-livestock belt (primarily in Inner Mongolia) and U.S. agricultural competitiveness. According to time-series data from the China Dairy Association, the paper identified a marked decline in per capita milk production in Inner Mongolia and highlights the economic ripple effects of tariff policies on both nations. The imposition of tariffs on critical commodities, such as alfalfa, oats, and soybeans disrupted supply chains and escalated production costs for Chinese dairy farmers, while simultaneously reducing the global competitiveness of U.S. exports. The paper further analyzes various scenarios regarding tariff impacts and examines how subsidies mitigate the effects of twin tariffs. Results illusion that tariffs on inelastic goods disproportionately affect economic efficiency, leading to cascading supply chain issues.
 
