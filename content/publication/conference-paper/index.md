@@ -50,7 +50,7 @@ url_code: 'https://www.aaea.org'
 url_dataset: 'https://www.aaea.org'
 url_poster: ''
 url_project: ''
-url_slides: 'Presentation.pdf'
+url_slides: 'https://github.com/liyoumin/personalweb/blob/main/content/publication/conference-paper/Presentation.pdf'
 url_source: 'https://www.aaea.org'
 url_video: 'https://youtube.com'
 
