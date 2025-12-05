@@ -1,6 +1,6 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: FRE policy conference, Use popular tools such as Plotly, Mermaid, and data frames.
+title: 📈 Florida Agricultural Data Avaliablity Visualizations
+summary: Summary of Florida Agricultural Census Data access through USDA-NASS.
 date: 2025-05-08
 authors:
   - admin
@@ -12,15 +12,13 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
-
-Use popular tools such as Plotly, Mermaid, and data frames.
+url: https://github.com/liyoumin/Geospatial-AgEcon/blob/main/build_florida_nass_inventory.R
 
 ## Charts
 
-Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
+popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly.
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+Save Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
 
 Demo:
 
