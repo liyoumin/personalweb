@@ -1,16 +1,16 @@
 ---
 title: International Development Police
-summary: Easily learn Python in 10 minutes!
+summary: Easily learn trade policy and R coding for data process!
 date: 2025-01-20
 type: docs
 math: false
 tags:
-  - R
+  - AEB-4283; Instructor: Prof. Mullally Conner
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'International Development Police (AEB 4283) for third or forth year undergraduate students'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+Machine learning application in agricultural economics became more and more popular.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
