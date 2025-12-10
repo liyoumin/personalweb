@@ -35,7 +35,7 @@ featured: true
 
 # 👉 PDF is in the same folder as this index.md
 
-url_pdf: "Machine_learning_project.pdf"
+url_pdf: "(Machine_learning_project.pdf)"
 url_code: ""
 url_dataset: "#"
 url_poster: "#"
