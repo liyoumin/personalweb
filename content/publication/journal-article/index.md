@@ -41,12 +41,12 @@ featured: false
 #   url: ""
 url_pdf: https://doi.org/10.32473/EDIS-FE1167-2025
 url_code: 'https://doi.org/10.32473/EDIS-FE1167-2025'
-url_dataset: ''
 url_poster: 'submission version'
 url_project: ''
-url_slides: ''
+url_slides: '#'
 url_source: ''
 url_video: ''
+url_dataset: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
