@@ -5,9 +5,9 @@ date: 2025-01-20
 type: docs
 math: false
 tags:
-  - AEB-4283; Instructor: Prof. Mullally Conner
+  - R
 image:
-  caption: 'International Development Police (AEB 4283) for third or forth year undergraduate students'
+  caption: 'Instructor: Prof. Mullally Conner. International Development Police (AEB 4283) for third or forth year undergraduate students'
 ---
 
 Machine learning application in agricultural economics became more and more popular.
