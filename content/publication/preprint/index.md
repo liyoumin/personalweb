@@ -39,10 +39,10 @@ url_pdf: "(Machine_learning_project.pdf)"
 url_code: ""
 url_dataset: "#"
 url_poster: "#"
-url_project: ""
-url_slides: ""
+url_slides: "preprint/Presentation_olive_oil.pdf"
 url_source: "#"
 url_video: "#"
+url_project: ""
 
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
