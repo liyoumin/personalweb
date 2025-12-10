@@ -35,11 +35,11 @@ featured: true
 
 # 👉 PDF is in the same folder as this index.md
 
-url_pdf: "(Machine_learning_project.pdf)"
+url_pdf: ""
 url_code: ""
 url_dataset: "#"
 url_poster: "#"
-url_slides: "preprint/Presentation_olive_oil.pdf"
+url_slides: ""
 url_source: "#"
 url_video: "#"
 url_project: ""
