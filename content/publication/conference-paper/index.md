@@ -47,11 +47,11 @@ featured: true
 
 url_pdf: 'https://doi.org/10.22004/ag.econ.361012'
 url_code: 'https://github.com/liyoumin/Trade-tarrifs-impacts-on_Chinnese_dairy/blob/main/estimates.R'
-url_slides: 'https://github.com/liyoumin/personalweb/blob/main/content/publication/conference-paper/Presentation.pdf'
+url_slides: '/Presentation.pdf'
 url_source: 'https://www.aaea.org'
 url_video: 'https://youtube.com'
 url_poster: ''
-url_project: ''
+url_project: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
