@@ -33,10 +33,6 @@ tags:
 
 featured: true
 
-content/publication/twin-tariffs/
-├── index.md
-├── preprint.pdf
-├── slides.pdf
 
 # 👉 PDF is in the same folder as this index.md
 
@@ -44,7 +40,7 @@ url_pdf: ""
 url_code: ""
 url_dataset: "#"
 url_poster: "#"
-url_slides: "slides.pdf"
+url_slides: "/slides.pdf"
 url_source: "#"
 url_video: "#"
 url_project: ""
