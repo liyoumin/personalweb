@@ -2,11 +2,11 @@
 title: Impact of Drought on U.S. Alfalfa Production and Export
 date: 2025-10-26
 # Link directly to your PDF on Overleaf
-url_pdf: "/Drought_impacts_on_alfalfa.pdf" 
+url_pdf: "personalweb/content/project/scikit/Drought_impacts_on_alfalfa.pdf" 
 url_code: "" 
 url_dataset: "#" 
 url_poster: "#" 
-url_slides: "/Presentation/_alfalfa.pdf" 
+url_slides: "personalweb/content/project/scikit/Presentation_alfalfa.pdf" 
 url_source: "#" 
 url_video: "#" 
 url_project: ""
