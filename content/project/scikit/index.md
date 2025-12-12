@@ -2,16 +2,6 @@
 title: Impact of Drought on U.S. Alfalfa Production and Export
 date: 2025-10-26
 # Link directly to your PDF on Overleaf
-url_pdf: 'Drought_impacts_on_alfalfa.pdf'
-
-tags:
-  - Geo-computation
-  - Machine learning
-  - Spatial analysis
----
-
-“Impact of Drought on U.S. Alfalfa Production and Export".
-
 url_pdf: "/Drought_impacts_on_alfalfa.pdf" 
 url_code: "" 
 url_dataset: "#" 
@@ -20,6 +10,14 @@ url_slides: "/Presentation/_alfalfa.pdf"
 url_source: "#" 
 url_video: "#" 
 url_project: ""
+
+tags:
+  - Geo-computation
+  - Machine learning
+  - Spatial analysis
+---
+
+“Impact of Drought on U.S. Alfalfa Production and Export".
 
 [📄 Download full paper](Drought_impacts_on_alfalfa.pdf){ .btn .btn-primary }
 
