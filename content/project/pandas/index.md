@@ -1,5 +1,5 @@
 ---
-title:  National Grassland Agriculture Modernization Strategy Research Project
+title:  Payment for Ecosystem Services in the Era of Sustainable Agriculture Insights from The Northern Everglades Payment for Environmental Services Program
 date: 2019-07-26
 external_link: http://www.saas.pku.edu.cn/english/
 
@@ -13,11 +13,13 @@ url_video: "#"
 url_project: "#"
 
 tags:
-  - Peking University
-  - CCAP
-  - Inner Mongolia, Tibet, Hebei Province
+  - Florida
+  - PES
+  - Water retension
 ---
 
-Invetigation and field research in Inner Mongolia, Tibet and Hebei Province.
+This paper examines the Northern Everglades Payment for Environmental Services Program (NE-PES) as a case study to derive insights for designing cost-effective and collaborative PES programs. 
+
+Target Journal: AETR
 
 <!--more-->
