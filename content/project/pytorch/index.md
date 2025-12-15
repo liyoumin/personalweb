@@ -3,13 +3,13 @@ title: 'Case Study: Small farms and Environment in Tuscany, Italy'
 date: 2023-06-26
 
 url_pdf: "/personalweb/project/pytorch/Small farms and Environment-IMRD- Paper.pdf" 
-url_code: "" 
-url_dataset: "#" 
-url_policy-brief: "/personalweb/project/pytorch/Policy Brief - EU Government.pdf" 
+url_poster: "/personalweb/project/pytorch/Policy Brief - EU Government.pdf" 
 url_slides: "/personalweb/project/pytorch/GIS AND RS Presentation2.pdf" 
 url_source: "https://www.moving-h2020.eu/about-moving/" 
 url_video: "https://www.moving-h2020.eu/about-moving/" 
 url_project: "/personalweb/project/pytorch/Presentation_Group 8 - Final.pdf"
+url_code: "#" 
+url_dataset: "#" 
 
 tags:
   - Sillico village,Tuscany, Italy
