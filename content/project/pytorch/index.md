@@ -6,7 +6,7 @@ external_link: https://www.moving-h2020.eu/about-moving/
 url_pdf: "/personalweb/project/pytorch/Small farms and Environment-IMRD- Paper.pdf" 
 url_code: "" 
 url_dataset: "#" 
-url_policy-brief: "Policy Brief - EU Government" 
+url_policy-brief: "/personalweb/project/pytorch/Policy Brief - EU Government.pdf" 
 url_slides: "/personalweb/project/pytorch/GIS AND RS Presentation2.pdf" 
 url_source: "#" 
 url_video: "#" 
