@@ -1,6 +1,6 @@
 ---
 title:  Payment for Ecosystem Services in the Era of Sustainable Agriculture Insights from The Northern Everglades Payment for Environmental Services Program
-date: 2019-07-26
+date: 2025-03-26
 external_link: http://www.saas.pku.edu.cn/english/
 
 url_pdf: "/personalweb/project/pandas/Payment for Ecosystem Services in the Era of Climate-Smart Agriculture.pdf" 
