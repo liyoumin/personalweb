@@ -1,6 +1,6 @@
 ---
 title: 🧠 "Functions Roshambo Battle Royale"
-summary:Programming functions through the process of creating the most sophisticated Rock-Paper-Scissors player ever
+summary: Programming functions through the process of creating the most sophisticated Rock-Paper-Scissors player ever
 
 date: 2025-10-29
 authors:
