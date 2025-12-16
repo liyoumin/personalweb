@@ -33,8 +33,6 @@ If `ambient-paino.mp4` is placed in this page's folder (page bundle) or in `asse
 
 ## Podcast
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode: 
-
 My piano music is coming out:
 
     {{</* audio src="ambient-piano.mp3" */>}}
