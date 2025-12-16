@@ -26,30 +26,12 @@ So, if playing randomly is the optimal strategy, what is the point of an RPS pro
 
 Therefore, identifying the pattern and the predictability of the play of your opponent based on previous turns and outcomes is a solution well-suited to computers. And today you will create your own RPS AI. You will try to maximize your outcomes against a suite of competitors who play with a variety of strategies, and hopefully come out with a bot capable of challenging your classmates for the title of supreme RPS champion!
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
 
 ```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
+- Player Bot
+  - Scissors 
+  - Rock
+  - Paper
 ```
 
 Anh here's a more advanced mindmap with formatting, code blocks, and math:
