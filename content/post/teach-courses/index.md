@@ -1,7 +1,7 @@
 ---
 title: 👩🏼‍🏫 Florida Agriculture Financial Management Conference (FLAFMC)
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2025-10-1
+date: 2025-09-30
 math: true
 
 tags:
