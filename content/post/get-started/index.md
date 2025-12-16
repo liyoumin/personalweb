@@ -1,7 +1,7 @@
 ---
 title: AAEA in Denver, CO 
 summary: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1
-date: 2025-06-27
+date: 2025-07-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,12 +10,12 @@ image:
 
 authors:
   - admin
-  - Ted
+  - 
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Tariffs Impacts on China Dairy Production System: The Case of Twin Tariffs
+  - Payment for Ecosystem Services in the Era of Sustainable Agriculture Insights from The Northern Everglades Payment for Environmental Services Program
+
 ---
 
 Welcome 👋
