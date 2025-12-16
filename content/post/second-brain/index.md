@@ -1,6 +1,6 @@
 ---
-title: 🧠 "AAEA in Denver, Co"
-summary: Functions Roshambo Battle Royale
+title: 🧠 "Functions Roshambo Battle Royale"
+summary:Programming functions through the process of creating the most sophisticated Rock-Paper-Scissors player ever
 
 date: 2025-10-29
 authors:
@@ -18,7 +18,7 @@ Youmin's Bot: https://github.com/liyoumin/Geospatial-AgEcon/blob/main/youmin_bot
 
 Functions take arguments, perform a sequence of operations, sometimes calling other functions (or even itself, if it’s recursive), and often return something useful to us. This is the core of a functional programming language like R. R is a functional language since everything in the R environment is either a data object or a function (hence the term, functional… honest, I don’t make this stuff up).
 
-Programming functions through the process of creating the most sophisticated Rock-Paper-Scissors player ever. The rock-paper-scissors (RPS) game is an extremely simple concept. Two players, choose one of three options, each of which will “win” against only one of the possible three outcomes, losing to another and drawing with itself. So if two players are making choices between “rock,” “paper,” and “scissors” completely at random, over time they have the neutral expectation of winning, losing and drawing exactly 1/3 of the time.
+The rock-paper-scissors (RPS) game is an extremely simple concept. Two players, choose one of three options, each of which will “win” against only one of the possible three outcomes, losing to another and drawing with itself. So if two players are making choices between “rock,” “paper,” and “scissors” completely at random, over time they have the neutral expectation of winning, losing and drawing exactly 1/3 of the time.
 
 An online game released by the New York Times showed to the world, however, that an RPS artificial intelligence (AI), a bot, can consistently beat human opponents. Why? The reason lies in that humans are predictable, we almost never can play completely randomly, and over time a bot with enough sophistication can detect patterns in our play and exploit those patterns. It is impossible to gain an advantage against a player playing completely randomly.
 
