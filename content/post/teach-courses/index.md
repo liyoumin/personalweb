@@ -1,27 +1,26 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
+title: 👩🏼‍🏫 Florida Agriculture Financial Management Conference (FLAFMC)
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+date: 2025-10-1
 math: true
-authors:
-  - admin
+
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+  - Analyzing financial performance
+  - Exploring new market opportunities
+  - Managing risk
+  - Enhancing cybersecurity and navigating evolving regulatory and technological landscapes. 
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+**Florida Agriculture Financial Management Conference**
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+The event offers a dynamic platform for networking with peers, sharing best practices, and discussing the impact of current financial markets on agribusiness. Whether you manage a large farm, a small operation, or serve agricultural or horticulture clients in a financial or legal capacity, this conference is for you. We welcome farm owners and managers, CFOs, CPAs, controllers, accountants, bookkeepers, lenders, and attorneys who work in the ag sector. Both CPE and CLE credits will be available.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
 ## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+FLAFMC isn’t just about education…it’s about building relationships, discovering solutions, and shaping the future of Florida’s agricultural communities. 
 
 **Youtube**:
 
@@ -37,13 +36,13 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 **Video file**
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+Videos may be added to a page by either placing them in your `assets/media/` media library or in [page's folder](https://gohugo.io/content-management/page-bundles/),:
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
 ## Podcast
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+
 
     {{</* audio src="ambient-piano.mp3" */>}}
 
@@ -51,19 +50,6 @@ Try it out:
 
 {{< audio src="ambient-piano.mp3" >}}
 
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
 
 ## Math
 
