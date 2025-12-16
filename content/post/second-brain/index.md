@@ -26,6 +26,7 @@ So, if playing randomly is the optimal strategy, what is the point of an RPS pro
 
 Therefore, identifying the pattern and the predictability of the play of your opponent based on previous turns and outcomes is a solution well-suited to computers. And today you will create your own RPS AI. You will try to maximize your outcomes against a suite of competitors who play with a variety of strategies, and hopefully come out with a bot capable of challenging your classmates for the title of supreme RPS champion!
 
+renders as
 
 ```markmap {height="200px"}
 - Player Bot
