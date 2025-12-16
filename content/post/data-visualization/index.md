@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-url: https://github.com/liyoumin/Geospatial-AgEcon/blob/main/build_florida_nass_inventory.R
+url_code: "https://github.com/liyoumin/Geospatial-AgEcon/blob/main/build_florida_nass_inventory.R"
 
 ## Charts
 
