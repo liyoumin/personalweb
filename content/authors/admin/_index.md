@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Youmin Li 
+title: "Youmin Li"
 
 # Name pronunciation (optional)
 name_pronunciation: 李友民
