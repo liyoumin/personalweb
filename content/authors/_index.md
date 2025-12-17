@@ -1,6 +1,6 @@
 ---
 # To publish author profile pages, remove all the `_build` and `cascade` settings below.
-title: "Youmin Li"
+
 _build:
   render: never
 cascade:
