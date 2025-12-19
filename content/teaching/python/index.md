@@ -14,7 +14,7 @@ Machine learning application in agricultural economics became more and more popu
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 You can find all my course-work related with AgEcon from below PDF:
-[📄 Open the PDF](Math-econ-sta course description.pdf)
+url_pdf: "/personalweb/teaching/python/Math-econ-sta course description.pdf" 
 
 ## Video
 
