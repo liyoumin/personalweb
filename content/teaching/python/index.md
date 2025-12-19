@@ -13,8 +13,8 @@ image:
 Machine learning application in agricultural economics became more and more popular.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+You can find all my course-work related with AgEcon from below PDF:
+[📄 Open the PDF](Math-econ-sta course description.pdf)
 
 ## Video
 
