@@ -12,6 +12,9 @@ image:
 
 Machine learning application in agricultural economics became more and more popular.
 
+**You can find all my course-work related with AgEcon from below PDF**:
+
+url_pdf: "Math-econ-sta course description.pdf" 
 
 ## Video
 
@@ -133,7 +136,5 @@ renders as
 
 {{< icon name="python" >}} Python
 
-**You can find all my course-work related with AgEcon from below PDF**:
 
-url_pdf: "/personalweb/teaching/python/Math-econ-sta course description.pdf" 
 
