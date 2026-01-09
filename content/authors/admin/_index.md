@@ -152,7 +152,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+Awards:
   - title: AAEA Section Sponsored Travel Grant (COSBAE) 
     url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
     date: '2025-07-29'
@@ -166,7 +166,7 @@ awards:
     awarder: CMA
     icon: datacamp
     summary: |
-  Scholarship
+  Scholarship:
   - title: SNU Global Subsidy Scholarship, Erasmus Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
