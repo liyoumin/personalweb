@@ -160,13 +160,13 @@ awards:
     icon: <i class="fas fa-university"></i> 
     summary: |
       I studied the foundational concept of . By the end, I was familiar with the significant; and apply deep learning to your own applications.
-    - title: 3rd. Prize of the 12th National University Mathematics Competition 
+  - title: 3rd. Prize of the 12th National University Mathematics Competition 
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2020-10-01'
+    date: '2019-12-31'
     awarder: CMA
     icon: datacamp
     summary: |
+
   Scholarship
   - title: SNU Global Subsidy Scholarship; Erasmus Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
@@ -180,8 +180,8 @@ awards:
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2024-10-01'
-    awarder: University of Florida,
-    icon: datacamp
+    awarder: University of Florida
+    icon: <i class="fas fa-university"></i> 
     summary: |
 ---
 
