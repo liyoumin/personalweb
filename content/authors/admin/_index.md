@@ -166,7 +166,6 @@ awards:
     awarder: CMA
     icon: datacamp
     summary: |
-
   Scholarship
   - title: SNU Global Subsidy Scholarship, Erasmus Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
