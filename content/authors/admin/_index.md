@@ -163,25 +163,29 @@ Awards:
   - title: 3rd. Prize of the 12th National University Mathematics Competition 
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     date: '2019-12-31'
-    awarder: CMA
-    icon: datacamp
+    awarder: "Chinese Mathematical Association (CMA)"
+    icon: "award"
     summary: |
-  Scholarship:
-  - title: SNU Global Subsidy Scholarship, Erasmus Scholarship
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-10-01'
-    awarder: Europ Union Erasmus Commitee; Seoul National University; South Korean goveronment; Chinese Scholarship Concile
-    icon: edx
+      National-level mathematics competition award.
+
+Scholarship:
+  - title: "SNU Global Subsidy Scholarship; Erasmus Scholarship"
+    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
+    certificate_url: "https://www.datacamp.com"
+    date: "2023-10-01"
+    awarder: "EU Erasmus Committee; Seoul National University; Korean Government; China Scholarship Council"
+    icon: "graduation-cap"
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code.  S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-  - title:  Grinter Scholarship; Hamilton scholarship
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2024-10-01'
-    awarder: University of Florida
-    icon: <i class="fas fa-university"></i> 
+      Competitive international scholarships supporting graduate study and academic exchange.
+
+  - title: "Grinter Scholarship; Hamilton Scholarship"
+    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
+    certificate_url: "https://www.datacamp.com"
+    date: "2024-10-01"
+    awarder: "University of Florida"
+    icon: "university"
     summary: |
+      Merit-based scholarships awarded for academic excellence.
 ---
 
 ## About Me
