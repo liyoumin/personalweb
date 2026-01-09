@@ -50,7 +50,7 @@ interests:
   - GIS and Remote Senssing Application in AgEcon
 
 education:
-  - area: PhD Agricultural Economics (expect 2028 May)
+  - area: PhD Agricultural Food & Resource Economics (expect 2028 May)
     institution: University of Florida
     date_start: 2024-08-01
     date_end: 2028-05-31
@@ -146,7 +146,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: Spanish, Korean
-    percent: 20
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -160,36 +160,34 @@ awards:
     icon: <i class="fas fa-university"></i> 
     summary: |
       I studied the foundational concept of . By the end, I was familiar with the significant; and apply deep learning to your own applications.
-  - title: Grinter Fellowship
-    url: 
-    date: '2024-03-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: SNU Global Subsidy Scholarship; Erasmus Scholarship
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-10-01'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-  - title: 3rd. Prize of the 12th National University Mathematics Competition 
+    - title: 3rd. Prize of the 12th National University Mathematics Competition 
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2020-10-01'
     awarder: CMA
     icon: datacamp
     summary: |
+  Scholarship
+  - title: SNU Global Subsidy Scholarship; Erasmus Scholarship
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-10-01'
+    awarder: Europ Union Erasmus Commitee; Seoul National University; South Korean goveronment; Chinese Scholarship Concile
+    icon: edx
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code.  S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title:  Grinter Scholarship; Hamilton scholarship
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2024-10-01'
+    awarder: University of Florida,
+    icon: datacamp
+    summary: |
 ---
 
 ## About Me
 
-Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests include Agricultural policy, machine learning, GIS and Remote Sensing application. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S. 
+Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests include interdisplinary of Agricultural policy, Climate changes, machine learning, GIS and Remote Sensing application, and Agronomy. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S. 
 Current working papers: International Trade-twin tariffs: {url: https://liyoumin.github.io/personalweb/publication/conference-paper/conference-paper.pdf }; 
 Olive Oil Consumption using Machine Learning Approach {url: https://liyoumin.github.io/personalweb/publication/preprint/Machine_learning_project.pdf }; 
 Drought Impacts on Alfalfa {paper and presentation slides url: https://liyoumin.github.io/personalweb/project/scikit/ };
