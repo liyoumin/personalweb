@@ -5,7 +5,7 @@ date: 2025-10-26
 url_pdf: "/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf" 
 url_slides: "/personalweb/project/scikit/Presentation_alfalfa.pdf" 
 url_poster: "/personalweb/project/scikit/spei_cv.png" 
-url_source: "#" 
+url_source: "/personalweb/project/scikit/AAEADrought_alfalfa.pdf" 
 url_video: "#" 
 url_code: "" 
 url_dataset: "#" 
