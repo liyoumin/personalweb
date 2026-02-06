@@ -5,7 +5,7 @@ date: 2025-01-20
 type: docs
 math: false
 tags:
-  - R
+  - R, C++, Arduino, IoT
 image:
   caption: 'Instructor: Prof. Mullally Conner. International Development Police (AEB 4283) for third or forth year undergraduate students'
 ---
