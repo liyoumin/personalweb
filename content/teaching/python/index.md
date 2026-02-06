@@ -20,11 +20,11 @@ url_pdf: "personalweb/teaching/python/Math-econ-sta-course-description.pdf"
 
 This project builds a Smart Drip Irrigation (SDI) controller for alfalfa production in Western semi-arid states. The system reads soil moisture and air temperature/humidity to decide when to turn a water pump (pressure irrigation) on/off. The goal is to maintain soil moisture within a target range (avoid under-watering and over-watering) while adapting irrigation timing to hot/dry conditions that increase evapotranspiration. The controller logs sensor data and pump status for monitoring and debugging.
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube (https://youtu.be/06ELOm3Qrtk?si=R7bu3Ha4KdLWdmXQ) >}}
 
 **Youtube**:
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+    {{</* youtube https://youtu.be/06ELOm3Qrtk?si=R7bu3Ha4KdLWdmXQ */>}}
 
 
 **Video file**
