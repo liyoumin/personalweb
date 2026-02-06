@@ -111,15 +111,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: R, Stata
+      - name: R, Stata, C++(Arduino)
         description: ''
         percent: 80
         icon: code-bracket
-      - name: GitHub, Overleaf
+      - name: Overleaf (Latex)
         description: ''
         percent: 100
         icon: brands/github
-      - name: ArcGIS
+      - name: ArcGIS/QGIS
         description: ''
         percent: 40
         icon: brands/arcgis
