@@ -25,15 +25,11 @@ This project builds a Smart Drip Irrigation (SDI) controller for alfalfa product
 
 **Video file**
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+Videos in `assets/media/` media library or in [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
 ## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
 
 Try it out:
 
@@ -81,28 +77,20 @@ RTC clock module for time-stamped logs and “no watering at midday” rule
 
 ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
 
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
 
 renders as
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+{{< spoiler text="👉 Click to view the solution" >}} Smart SDI 🎉 {{< /spoiler >}}
 
 ## Hardware
 
           Soil Moisture Sensor (Analog) -----> A0 (Mega)
           DHT Temp/RH (Digital)  -----------> D2 (Mega)
-
-Mega D8  -----------------------> Relay IN  -----> Pump power circuit
-Mega GND ------------------------> Relay GND
-Mega 5V  ------------------------> Relay VCC (if 5V relay board)
-
-Pump + Irrigation:
-Water tank -> Pump -> Filter -> Drip line -> Alfalfa plot
-
+          Mega D8  -----------------------> Relay IN  -----> Pump power circuit
+          Mega GND ------------------------> Relay GND
+          Mega 5V  ------------------------> Relay VCC (if 5V relay board)
+          Pump + Irrigation:
+          Water tank -> Pump -> Filter -> Drip line -> Alfalfa plot
 Optional:
 LCD (I2C)  SDA/SCL -> Mega SDA/SCL
 SD module  CS/MOSI/MISO/SCK -> Mega SPI pins
@@ -110,7 +98,6 @@ ESP-32D    WiFi upload (separate controller or co-processor)
 
 
 ## Code (C++)
-
 
 renders as
 ```C++
@@ -233,12 +220,7 @@ void loop(){
 ```
 
 ## Inline Images
-
-```go
-{{</* icon name="c++" */>}} c++
-```
-renders as
-
+Arduino
 {{< icon name="c++" >}} C++
 
 
