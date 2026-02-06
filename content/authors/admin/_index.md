@@ -47,7 +47,7 @@ profiles:
 interests:
   - AgEcon Policy
   - Rangeland
-  - GIS and Remote Senssing Application in AgEcon
+  - Machine Learning, AI based Internet of Things(IoT), GIS and Remote Sensing Application in Agricultre
 
 education:
   - area: PhD Agricultural Food & Resource Economics (expect 2028 May)
