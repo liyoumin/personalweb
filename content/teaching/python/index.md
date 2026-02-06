@@ -235,11 +235,11 @@ void loop(){
 ## Inline Images
 
 ```go
-{{</* icon name="C++" */>}} C++
+{{</* icon name="c++" */>}} c++
 ```
 renders as
 
-{{< icon name="C++" >}} C++
+{{< icon name="c++" >}} C++
 
 
 
