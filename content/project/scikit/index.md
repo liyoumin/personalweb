@@ -45,28 +45,43 @@ This project builds a Smart Drip Irrigation (SDI) controller for alfalfa product
 
 
 ## Core functions
-
+```
 Soil moisture monitoring (Sensor #1)
+
 Read analog soil moisture level and convert to a % using calibration.
+
 Microclimate monitoring (Sensor #2)
+
 Read temperature and relative humidity (DHT11/DHT22).
+
 Automatic irrigation control
+
 Pump ON/OFF using a relay module with hysteresis thresholds:
+
 ON when moisture < LOW
+
 OFF when moisture > HIGH
+
 Semi-arid “smart” logic
+
 If hot + dry, irrigation triggers slightly earlier (threshold bias).
+
 If cool + humid, irrigation triggers later.
+
 Safety + reliability
+
 Maximum pump run time per event (prevents flooding).
+
 Minimum off time between events (prevents relay “chattering”).
+
 Sensor fault → fail-safe pump OFF.
-Optional upgrades (good for Step 2)
+
+Optional upgrades
 LCD display (1602 I2C or parallel): show Soil%, Temp, RH, Pump state
 Data logging to SD card module (CSV file)
 RTC clock module for time-stamped logs and “no watering at midday” rule
 ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
-
+```
 {{< spoiler text="👉 Click to view the solution" >}} Smart SDI 🎉 {{< /spoiler >}}
 
 ## Hardware
@@ -208,8 +223,5 @@ void loop(){
 ## Inline Images
 Arduino
 {{< icon name="c++" >}} C++
-
-image:
-  caption: 'Hardware: Mega2560 + DHT11 + LCD1602A + Relay + ESP-32S (telemetry)'
   
 <!--more-->
