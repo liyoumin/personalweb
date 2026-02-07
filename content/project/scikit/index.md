@@ -32,7 +32,7 @@ Build a simple Smart Agriculture IoT controller with Arduino Mega2560 + DHT11 + 
 
 ## Video
 
-This project builds a Smart Drip Irrigation (SDI) controller for alfalfa production in Western semi-arid states. The system reads soil moisture and air temperature/humidity to decide when to turn a water pump (pressure irrigation) on/off. The goal is to maintain soil moisture within a target range (avoid under-watering and over-watering) while adapting irrigation timing to hot/dry conditions that increase evapotranspiration. The controller logs sensor data and pump status for monitoring and debugging.
+This example project builds a Smart Drip Irrigation (SDI) controller for alfalfa production in Western semi-arid states. The system reads soil moisture and air temperature/humidity to decide when to turn a water pump (pressure irrigation) on/off. The goal is to maintain soil moisture within a target range (avoid under-watering and over-watering) while adapting irrigation timing to hot/dry conditions that increase evapotranspiration. The controller logs sensor data and pump status for monitoring and debugging.
 
 {{< youtube ciD3ILxgXzU >}}
 
@@ -47,33 +47,19 @@ This project builds a Smart Drip Irrigation (SDI) controller for alfalfa product
 ## Core functions
 ```
 Soil moisture monitoring (Sensor #1)
-
 Read analog soil moisture level and convert to a % using calibration.
-
 Microclimate monitoring (Sensor #2)
-
 Read temperature and relative humidity (DHT11/DHT22).
-
 Automatic irrigation control
-
 Pump ON/OFF using a relay module with hysteresis thresholds:
-
 ON when moisture < LOW
-
 OFF when moisture > HIGH
-
 Semi-arid “smart” logic
-
 If hot + dry, irrigation triggers slightly earlier (threshold bias).
-
 If cool + humid, irrigation triggers later.
-
 Safety + reliability
-
 Maximum pump run time per event (prevents flooding).
-
 Minimum off time between events (prevents relay “chattering”).
-
 Sensor fault → fail-safe pump OFF.
 
 Optional upgrades
