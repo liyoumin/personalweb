@@ -14,7 +14,7 @@ Machine learning and Internet of Thing(IoT) application in agricultural economic
 
 **You can find all my AI_based Smart Agricultural **:
 
-url_pdf: "personalweb/teaching/python/Math-econ-sta-course-description.pdf" 
+<!-- url_pdf: "personalweb/teaching/python/Math-econ-sta-course-description.pdf" -->
 
 ## Video
 
@@ -25,13 +25,12 @@ This project builds a Smart Drip Irrigation (SDI) controller for alfalfa product
 
 **Video file**
 
-Videos in `assets/media/` media library or in [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+<!-- Videos in `assets/media/` media library or in [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode: -->
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
 ## Podcast
 
-Try it out:
 
 {{< audio src="ambient-piano.mp3" >}}
 
@@ -77,8 +76,6 @@ RTC clock module for time-stamped logs and “no watering at midday” rule
 
 ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
 
-
-renders as
 
 {{< spoiler text="👉 Click to view the solution" >}} Smart SDI 🎉 {{< /spoiler >}}
 
@@ -221,7 +218,7 @@ void loop(){
 
 ## Inline Images
 Arduino
-{{< icon name="c++" >}} C++
+{{< icon name="C++" >}} C++
 
 
 
