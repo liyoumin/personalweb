@@ -1,14 +1,14 @@
 ---
-title: Impact of Drought on U.S. Alfalfa Production and Export
+title: How Drought Shocks Alfalfa Production and Export? Evidence from U.S. Alfalfa Spatial Diagnostics and Panel Analysis
 date: 2025-10-26
 # Link directly to your PDF on Overleaf
 url_pdf: "/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf" 
 url_slides: "/personalweb/project/scikit/Presentation_alfalfa.pdf" 
 url_poster: "/personalweb/project/scikit/Motivation.png" 
 url_source: "/personalweb/project/scikit/AAEADrought_alfalfa.pdf" 
-url_video: "/personalweb/project/scikit/SimpleSDI.MOV" 
+url_video: "/personalweb/project/scikit/SimpleSDI.MP4" 
 url_code: "" 
-url_dataset: "#" 
+url_dataset: "/personalweb/project/scikit/Irrigation output.png" 
 url_project: ""
 
 tags:
@@ -20,9 +20,6 @@ tags:
   - Irrigation
 ---
 
-“Impact of Drought on U.S. Alfalfa Production and Export".
-
-[📄 Download full paper](Drought_impacts_on_alfalfa.pdf)
 
 ## Introduction and background:
 Alfalfa production in Western semi-arid states often faces high evaporative demand and tight irrigation constraints. Smart Drip Irrigation (SDI) systems can improve water efficiency by coupling real-time sensing with automatic control. This mini project demonstrates the core SDI control loop—sense → decide → actuate → display/log—using low-cost hardware. In this simplified version (based on available parts), the system uses temperature and relative humidity (DHT11) as a “hot & dry” trigger to simulate irrigation scheduling and proves actuation through a relay signal, a status LED, and a LCD message. An ESP-32S receives telemetry for future IoT extension (dashboard/cloud), while the Mega2560 remains the reliable control layer.
