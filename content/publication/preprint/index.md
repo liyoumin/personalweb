@@ -50,6 +50,16 @@ image:
   focal_point: ""
   preview_only: false
 
+## Video
+
+Illustration by sharing videos.
+
+**Video file**
+
+Project presentation:
+
+{{< video src="../../../teaching/js/ambient-paino.mp4" controls="yes" >}}
+
 projects:
   - internal-project
 
