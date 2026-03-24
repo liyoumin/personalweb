@@ -56,4 +56,4 @@ projects:
 
 ---
 [📄 Open the PDF](Machine_learning_project.pdf)
-[📄 Open the presentation](slides.pdf)
+
