@@ -56,12 +56,9 @@ Illustration by sharing videos.
 
 **Video file**
 
-Project presentation:
+Project presentation
 
 {{< video src="../../../teaching/js/ambient-paino.mp4" controls="yes" >}}
-
-projects:
-  - internal-project
 
 
 ---
