@@ -50,16 +50,10 @@ image:
   focal_point: ""
   preview_only: false
 
-Video
+## Video Illustration
+**Project presentation**
 
-Illustration by sharing videos.
-
-**Video file**
-
-Project presentation
-
-{{< video src="../../../teaching/js/ambient-paino.mp4" controls="yes" >}}
-
+{{< video src="../../../teaching/js/ambient-piano.mp4" controls="yes" >}}
 
 ---
 [📄 Open the PDF](Machine_learning_project.pdf)
