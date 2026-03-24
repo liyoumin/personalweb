@@ -29,7 +29,7 @@ abstract: >
 summary: "Olive oil, Consumer behavior, Agricultural food, Machine Learning (supervised and unsupervised)"
 
 tags:
-  - "Machine learning"
+  - "Machine learning, Consumption, olive Oil"
 
 featured: true
 
@@ -51,11 +51,5 @@ image:
   preview_only: false
 
 ---
-
-## Video Illustration
-**Project presentation**
-
-{{< video src="personalweb/content/teaching/js/ambient-piano.mp4" controls="yes" >}}
-
 [📄 Open the PDF](Machine_learning_project.pdf)
 
