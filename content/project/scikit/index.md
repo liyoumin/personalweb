@@ -4,12 +4,12 @@ date: 2025-10-26
 # Link directly to your PDF on Overleaf
 url_pdf: "/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf" 
 url_slides: "/personalweb/project/scikit/Presentation_alfalfa.pdf" 
-url_poster: "/personalweb/project/scikit/Motivation.png" 
+url_poster: "/personalweb/project/scikit/poster.pdf" 
 url_source: "/personalweb/project/scikit/AAEADrought_alfalfa.pdf" 
 url_video: "/personalweb/project/scikit/SimpleSDI.MP4" 
 url_code: "" 
 url_dataset: "/personalweb/project/scikit/Irrigation output.png" 
-url_project: ""
+url_project: "/personalweb/project/scikit/Motivation.png"
 
 tags:
   - Smart Agriculture
