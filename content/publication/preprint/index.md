@@ -50,7 +50,7 @@ image:
   focal_point: ""
   preview_only: false
 
-## Video
+Video
 
 Illustration by sharing videos.
 
