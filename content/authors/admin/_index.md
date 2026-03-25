@@ -45,7 +45,7 @@ profiles:
     url: https://orcid.org/0009-0000-2750-1401
 
   {{< address-toggle icon="📍" >}}
-  Mail: P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
+  "Mail: P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A."
   {{< /address-toggle >}}
         
 interests:
