@@ -40,16 +40,7 @@ profiles:
     url: https://www.researchgate.net/profile/Youmin-Li
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2750-1401
----
-<details style="display:inline-block;">
-  <summary style="cursor:pointer; list-style:none;">
-    📍
-  </summary>
-  <div style="margin-top:6px;">
-    P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
-  </div>
-</details>
----
+
 interests:
   - AgEcon Policy
   - Rangeland
@@ -200,4 +191,13 @@ Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests i
 Current working papers: International Trade-twin tariffs: {url: https://liyoumin.github.io/personalweb/publication/conference-paper/conference-paper.pdf }; 
 Olive Oil Consumption using Machine Learning Approach {url: https://liyoumin.github.io/personalweb/publication/preprint/Machine_learning_project.pdf }; 
 Drought Impacts on Alfalfa {paper and presentation slides url: https://liyoumin.github.io/personalweb/project/scikit/ };
- 
+
+---
+<details style="display:inline-block;">
+  <summary style="cursor:pointer; list-style:none;">
+    📍
+  </summary>
+  <div style="margin-top:6px;">
+    P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
+  </div>
+</details>
