@@ -43,9 +43,9 @@ profiles:
     url: https://www.researchgate.net/profile/Youmin-Li
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2750-1401
-  - icon: fas/map-marker-alt
-    url: 'https://www.google.com/maps/search/?api=1&query=P.O.+Box+110240,+Gainesville+32611-0240,+FL'
-    label: P.O. Box 110240, McCarty Hall B, Gainesville, FL 32603, U.S.A
+  - icon: location-dot
+    url: "https://www.google.com/maps/search/?api=1&query=McCarty+Hall+B,+1676+McCarty+Dr,+Gainesville,+FL+32603"
+    label: "mail: P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A."
         
 interests:
   - AgEcon Policy
