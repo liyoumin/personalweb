@@ -40,10 +40,16 @@ profiles:
     url: https://www.researchgate.net/profile/Youmin-Li
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2750-1401
-  - icon: address-toggle
-    url: 'https://www.google.com/maps/search/?api=1&query=P.O.+Box+110240,+Gainesville,+FL+32611-0240'
-    label: 'P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.'
-        
+---
+<details style="display:inline-block;">
+  <summary style="cursor:pointer; list-style:none;">
+    📍
+  </summary>
+  <div style="margin-top:6px;">
+    P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
+  </div>
+</details>
+---
 interests:
   - AgEcon Policy
   - Rangeland
@@ -60,7 +66,7 @@ education:
       text: 'Read Thesis'
       url: 'notyet'
   - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
-    institution: Ghent University (Belgium), Humboldt University zu Berlin (Germany), Seoul National University (South Korea), RUC (China)
+    institution: Ghent University (Belgium), Humboldt University zu Berlin (Germany), Seoul National University (South Korea)
     date_start: 2021-09-01
     date_end: 2024-07-31
     summary: |
@@ -195,12 +201,3 @@ Current working papers: International Trade-twin tariffs: {url: https://liyoumin
 Olive Oil Consumption using Machine Learning Approach {url: https://liyoumin.github.io/personalweb/publication/preprint/Machine_learning_project.pdf }; 
 Drought Impacts on Alfalfa {paper and presentation slides url: https://liyoumin.github.io/personalweb/project/scikit/ };
  
----
-<details style="display:inline-block;">
-  <summary style="cursor:pointer; list-style:none;">
-    📍
-  </summary>
-  <div style="margin-top:6px;">
-    P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
-  </div>
-</details>
