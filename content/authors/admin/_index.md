@@ -195,7 +195,3 @@ Current working papers: International Trade-twin tariffs: {url: https://liyoumin
 Olive Oil Consumption using Machine Learning Approach {url: https://liyoumin.github.io/personalweb/publication/preprint/Machine_learning_project.pdf }; 
 Drought Impacts on Alfalfa {paper and presentation slides url: https://liyoumin.github.io/personalweb/project/scikit/ };
  
----
-  {{< address-toggle icon="📍" >}}
-  P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
-  {{< /address-toggle >}}
