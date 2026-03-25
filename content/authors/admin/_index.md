@@ -22,10 +22,7 @@ role: PhD Student
 organizations: 
   - name: University of Florida
     url: https://fred.ifas.ufl.edu/extension/economic-impact-analysis-program/
----
-  {{< address-toggle icon="📍" >}}
-  P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
-  {{< /address-toggle >}}
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,7 +40,8 @@ profiles:
     url: https://www.researchgate.net/profile/Youmin-Li
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2750-1401
-  - icon: map-pin
+  - icon: address-toggle
+    url: 'https://www.google.com/maps/search/?api=1&query=P.O.+Box+110240,+Gainesville,+FL+32611-0240'
     label: 'P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.'
         
 interests:
@@ -196,3 +194,8 @@ Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests i
 Current working papers: International Trade-twin tariffs: {url: https://liyoumin.github.io/personalweb/publication/conference-paper/conference-paper.pdf }; 
 Olive Oil Consumption using Machine Learning Approach {url: https://liyoumin.github.io/personalweb/publication/preprint/Machine_learning_project.pdf }; 
 Drought Impacts on Alfalfa {paper and presentation slides url: https://liyoumin.github.io/personalweb/project/scikit/ };
+ 
+---
+  {{< address-toggle icon="📍" >}}
+  P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
+  {{< /address-toggle >}}
