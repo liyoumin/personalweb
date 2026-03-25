@@ -9,11 +9,6 @@ name_pronunciation: 李友民
 first_name: Youmin
 last_name: Li
 
-# Status emoji
-  {{< address-toggle icon="📍" >}}
-  P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
-  {{< /address-toggle >}}
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -27,6 +22,11 @@ role: PhD Student
 organizations: 
   - name: University of Florida
     url: https://fred.ifas.ufl.edu/extension/economic-impact-analysis-program/
+---
+# address
+  {{< address-toggle icon="📍" >}}
+  P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
+  {{< /address-toggle >}}
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
