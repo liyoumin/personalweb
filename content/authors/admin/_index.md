@@ -198,6 +198,6 @@ Drought Impacts on Alfalfa {paper and presentation slides url: https://liyoumin.
     📍
   </summary>
   <div style="margin-top:6px;">
-    P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
+   mail: P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
   </div>
 </details>
