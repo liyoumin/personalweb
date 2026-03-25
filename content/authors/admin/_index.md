@@ -22,7 +22,7 @@ role: PhD Student
 organizations: 
   - name: University of Florida
     url: https://fred.ifas.ufl.edu/extension/economic-impact-analysis-program/
-
+---
   {{< address-toggle icon="📍" >}}
   P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
   {{< /address-toggle >}}
