@@ -10,8 +10,9 @@ first_name: Youmin
 last_name: Li
 
 # Status emoji
-status:
-  icon: ☕️
+  {{< address-toggle icon="📍" >}}
+  P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
+  {{< /address-toggle >}}
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,10 +44,8 @@ profiles:
     url: https://www.researchgate.net/profile/Youmin-Li
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2750-1401
-
-  {{< address-toggle icon="📍" >}}
-  P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.
-  {{< /address-toggle >}}
+  - icon: map-pin
+    label: 'P.O. Box 110240, Gainesville, FL 32611-0240, U.S.A.'
         
 interests:
   - AgEcon Policy
