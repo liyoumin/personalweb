@@ -25,7 +25,7 @@ tags:
 Alfalfa production in Western semi-arid states often faces high evaporative demand and tight irrigation constraints. Smart Drip Irrigation (SDI) systems can improve water efficiency by coupling real-time sensing with automatic control. This mini project demonstrates the core SDI control loop—sense → decide → actuate → display/log—using low-cost hardware. In this simplified version (based on available parts), the system uses temperature and relative humidity (DHT11) as a “hot & dry” trigger to simulate irrigation scheduling and proves actuation through a relay signal, a status LED, and a LCD message. An ESP-32S receives telemetry for future IoT extension (dashboard/cloud), while the Mega2560 remains the reliable control layer.
 
 ## Counter measure:
-Build a simple Smart Agriculture IoT controller with Arduino Mega2560 + DHT11 + LCD1602A + Relay, and stream telemetry to ESP-32S.
+Adopte a Smart Agriculture IoT controller with Arduino Mega2560 + DHT11 + LCD1602A + Relay, and stream telemetry to ESP-32S.
 
 ## Video
 
@@ -58,8 +58,6 @@ Safety + reliability
 Maximum pump run time per event (prevents flooding).
 Minimum off time between events (prevents relay “chattering”).
 Sensor fault → fail-safe pump OFF.
-
-Optional upgrades
 LCD display (1602 I2C or parallel): show Soil%, Temp, RH, Pump state
 Data logging to SD card module (CSV file)
 RTC clock module for time-stamped logs and “no watering at midday” rule
@@ -67,7 +65,7 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
 ```
 
 ## Hardware
-
+```
    Soil Moisture Sensor (Analog) -----> A0 (Mega)
    Water level --------------> A1
    DHT Temp/RH (Digital)  -----------> D2 (Mega)
@@ -81,6 +79,7 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
    ESP-32D:    WiFi upload data and commands send from phone (MEGA RX1-ESP TX; MEGA TX1-Voltage divide-ESP RX)
    Pinpad instruction: A -> starts irrigation; B -> stops pump; C -> forces MANUAL Mod; 
    number + # -> set irrigation volum mL; D -> forces AUTO
+```
 
 ## Code (C++)
       code preview
