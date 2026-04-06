@@ -77,7 +77,7 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
           Mega 5V  ------------------------> Breadboard positive 
           Pump + Irrigation:
           Water tank -> Pump -> Filter -> Drip line -> Alfalfa plot
-          LCD (I2C)  SDA/SCL -> Mega SDA/SCL
+          LCD (I2C)  SDA/SCL -> Mega SDA/SCL; V0 -> potentionmeter
           SD module  CS/MOSI/MISO/SCK -> Mega SPI pins
           ESP-32D:    WiFi upload data and commands send from phone (MEGA RX1-ESP TX; MEGA TX1-Voltage divide-ESP RX)
           Pinpad instruction: A -> starts irrigation; B -> stops pump; C -> forces MANUAL Mod; 
