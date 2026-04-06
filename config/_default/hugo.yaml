@@ -49,8 +49,6 @@ taxonomies:
 markup:
   _merge: deep
   highlight:
-
-markup:
   goldmark:
     renderer:
       unsafe: true
