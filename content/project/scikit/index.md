@@ -65,7 +65,6 @@ Data logging to SD card module (CSV file)
 RTC clock module for time-stamped logs and “no watering at midday” rule
 ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
 ```
-{{< spoiler text="👉 Click to view the solution" >}} Smart SDI 🎉 {{< /spoiler >}}
 
 ## Hardware
 
@@ -122,6 +121,7 @@ byte colPins[COLS] = {34, 35, 36, 37};
 
 Keypad keypad = Keypad(makeKeymap(keys), rowPins, colPins, ROWS, COLS);
 
+{{< spoiler text="👉 Click to view the solution" >}}
 // ===================== TIMING ===================
 unsigned long lastReadMs      = 0;
 unsigned long lastSendMs      = 0;
@@ -540,6 +540,7 @@ void loop() {
   }
 }
 ```
+{{< /spoiler >}}
 
 ## Inline Images
 Arduino
