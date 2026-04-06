@@ -49,11 +49,4 @@ taxonomies:
 markup:
   _merge: deep
   highlight:
-  goldmark:
-    renderer:
-      unsafe: true
-    lineNos: false
-security:
-  _merge: deep
-sitemap:
-  _merge: deep
+
