@@ -69,20 +69,19 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
 
 ## Hardware
 
-          Soil Moisture Sensor (Analog) -----> A0 (Mega)
-          Water level --------------> A1
-          DHT Temp/RH (Digital)  -----------> D2 (Mega)
-          Mega D8  -----------------------> Relay IN  -----> Pump power circuit
-          Mega GND ------------------------> Breadboard GND
-          Mega 5V  ------------------------> Breadboard positive 
-          Pump + Irrigation:
-          Water tank -> Pump -> Filter -> Drip line -> Alfalfa plot
-          LCD (I2C)  SDA/SCL -> Mega SDA/SCL; V0 -> potentionmeter
-          SD module  CS/MOSI/MISO/SCK -> Mega SPI pins
-          ESP-32D:    WiFi upload data and commands send from phone (MEGA RX1-ESP TX; MEGA TX1-Voltage divide-ESP RX)
-          Pinpad instruction: A -> starts irrigation; B -> stops pump; C -> forces MANUAL Mod; 
-          number + # -> set irrigation volum mL; D -> forces AUTO
-
+   Soil Moisture Sensor (Analog) -----> A0 (Mega)
+   Water level --------------> A1
+   DHT Temp/RH (Digital)  -----------> D2 (Mega)
+   Mega D8  -----------------------> Relay IN  -----> Pump power circuit
+   Mega GND ------------------------> Breadboard GND
+   Mega 5V  ------------------------> Breadboard positive 
+   Pump + Irrigation:
+   Water tank -> Pump -> Filter -> Drip line -> Alfalfa plot
+   LCD (I2C)  SDA/SCL -> Mega SDA/SCL; V0 -> potentionmeter
+   SD module  CS/MOSI/MISO/SCK -> Mega SPI pins
+   ESP-32D:    WiFi upload data and commands send from phone (MEGA RX1-ESP TX; MEGA TX1-Voltage divide-ESP RX)
+   Pinpad instruction: A -> starts irrigation; B -> stops pump; C -> forces MANUAL Mod; 
+   number + # -> set irrigation volum mL; D -> forces AUTO
 
 ## Code (C++)
 
