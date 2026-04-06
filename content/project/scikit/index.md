@@ -120,8 +120,10 @@ byte rowPins[ROWS] = {30, 31, 32, 33};
 byte colPins[COLS] = {34, 35, 36, 37};
 
 Keypad keypad = Keypad(makeKeymap(keys), rowPins, colPins, ROWS, COLS);
+```
 
 {{< spoiler text="👉 Click to view the solution" >}}
+```cpp
 // ===================== TIMING ===================
 unsigned long lastReadMs      = 0;
 unsigned long lastSendMs      = 0;
