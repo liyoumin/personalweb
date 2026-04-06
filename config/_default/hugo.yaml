@@ -49,4 +49,9 @@ taxonomies:
 markup:
   _merge: deep
   highlight:
+    lineNos: false
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
 
