@@ -85,17 +85,19 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
 
 ## Code (C++)
 
-```C++
+Here is a short preview of the Arduino Mega control code:
+
+```cpp
 #include <DHT.h>
 #include <LiquidCrystal.h>
 #include <Keypad.h>
 
 // ===================== PINS =====================
 const int PIN_SOIL      = A0;
-const int PIN_WL        = A1;   // water level sensor
+const int PIN_WL        = A1;
 const int PIN_DHT       = 2;
 const int PIN_RELAY     = 8;
-const int PIN_MODE_BTN  = 3;    // push button to toggle AUTO/MANUAL
+const int PIN_MODE_BTN  = 3;
 
 // LCD1602 4-bit: RS, E, D4, D5, D6, D7
 LiquidCrystal lcd(22, 23, 24, 25, 26, 27);
