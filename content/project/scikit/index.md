@@ -83,9 +83,6 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
    number + # -> set irrigation volum mL; D -> forces AUTO
 
 ## Code (C++)
-
-Here is a short preview of the Arduino Mega control code:
-
 ```cpp
 #include <DHT.h>
 #include <LiquidCrystal.h>
@@ -122,7 +119,7 @@ byte colPins[COLS] = {34, 35, 36, 37};
 Keypad keypad = Keypad(makeKeymap(keys), rowPins, colPins, ROWS, COLS);
 ```
 
-{{< spoiler text="👉 Click to view the solution" >}}
+{{< spoiler text="👉 Click to view the full code" >}}
 ```cpp
 // ===================== TIMING ===================
 unsigned long lastReadMs      = 0;
