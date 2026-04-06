@@ -81,8 +81,7 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
    number + # -> set irrigation volum mL; D -> forces AUTO
 ```
 
-## Code (C++)
-      code preview
+## Code (C++) 
 ```cpp
 #include <DHT.h>
 #include <LiquidCrystal.h>
