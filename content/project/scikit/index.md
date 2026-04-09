@@ -540,6 +540,154 @@ void loop() {
 ```
 {{< /spoiler >}}
 
+
+
+{{< spoiler text="👉 Click to view the ESP Connect WiFi" >}}
+```c++
+#include <WiFi.h>
+
+const char* ssid = "iPhone Youmin li";
+const char* password = "12345678";
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);
+  WiFi.begin(ssid, password);
+
+    while(WiFi.status() != WL_CONNECTED){
+     delay(100);
+     Serial.println("connecting to WiFi...");
+     }
+     
+     Serial.println("Connected to the WiFi network");
+     Serial.println(WiFi.localIP());
+ }
+
+void loop() {
+  // put your main code here, to run repeatedly:
+    while(WiFi.status() != WL_CONNECTED){
+     delay(100);
+     Serial.println("connecting to WiFi...");
+     }
+     
+     Serial.println("Connected to the WiFi network");
+     Serial.println(WiFi.localIP());
+}
+```
+{{< /spoiler >}}
+
+
+{{< spoiler text="👉 Click to view the ESP Open-Weather read" >}}
+```c++
+#include <WiFi.h>
+#include <HTTPClient.h>
+const char* ssid = "iPhone Youmin li";
+const char* password = "123456789";
+// Use your OpenWeatherMap API key here
+String apiKey = "1da5602c98819cc5e77582d0676746f8***";
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);
+  WiFi.begin(ssid, password);
+    while(WiFi.status() != WL_CONNECTED){
+     delay(100);
+     Serial.println("connecting to WiFi...");
+     }
+  Serial.println("Connected to the WiFi network");
+  Serial.println(WiFi.localIP());
+ // Construct the API request URL
+ String url = "http://api.openweathermap.org/data/2.5/weather?q=Tampa,FL,US&appid=" + apiKey;
+ // Create an HTTPClient object
+  HTTPClient http;
+    // Begin the request
+  http.begin(url);
+    // Send the request
+  int httpCode = http.GET();
+    // Check the returning http code
+  if (httpCode > 0) {
+    String payload = http.getString();
+    Serial.println(payload);
+  } else {
+    Serial.println("Error on HTTP request");
+  }
+  http.end(); //End HTTP connection
+}
+void loop() {
+  // put your main code here, to run repeatedly:
+}
+```
+{{< /spoiler >}}
+
+{{< spoiler text="👉 Click to view the ESP DTH Cloud Data" >}}
+```c++
+#include <WiFi.h>
+#include <DHT.h>
+#include <ThingSpeak.h>
+
+const char* ssid = "iPhone Youmin";
+const char* password = "12345678";
+
+WiFiClient  client;
+
+unsigned long myChannelID = 2504473;
+const char * myWriteAPIKey = "IQNPV4Q99RZDGQGI";
+
+// Timer variables
+unsigned long lastTime = 0;
+unsigned long timerDelay = 30000;
+
+#define DHTPIN 23
+#define DHTTYPE DHT11 
+DHT dht(DHTPIN, DHTTYPE);
+
+float temperature;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);  //Initialize serial
+  WiFi.begin(ssid, password);
+      while(WiFi.status() != WL_CONNECTED){
+       delay(100);
+       Serial.println("connecting to WiFi...");
+       }
+  Serial.println("Connected to the WiFi network");
+  Serial.println(WiFi.localIP()); 
+  ThingSpeak.begin(client);  // Initialize ThingSpeak
+  dht.begin();
+}
+
+
+void getData(){
+  delay(2000);// Wait a few seconds between measurements.
+  // Reading temperature or humidity takes about 250 milliseconds!
+  // Sensor readings may also be up to 2 seconds ‘old’ (its a very slow sensor)
+    temperature = dht.readTemperature();// Read temperature as Celsius (the default)
+    if (isnan(temperature) ){
+    Serial.println("Failed to read from DHT sensor.");
+    return;
+     }
+  Serial.print("Temperature (°C): ");
+  Serial.println(temperature);
+}
+
+
+void loop() {
+  // put your main code here, to run repeatedly:
+if ((millis() - lastTime) > timerDelay) {
+  getData();
+   int x = ThingSpeak.writeField(myChannelID, 1, temperature, myWriteAPIKey);
+   if(x == 200){
+      Serial.println("Channel update successful.");
+    }
+    else{
+      Serial.println("Problem updating channel. HTTP error code " + String(x));
+    }
+    lastTime = millis();
+  }
+}
+```
+{{< /spoiler >}}
+
 ## Inline Images
 Arduino
 {{< icon name="c++" >}} C++
