@@ -42,8 +42,8 @@ url_video: "https://liyoumin.github.io/personalweb/teaching/js/"
 url_code: ""
 url_dataset: "#"
 url_poster: "#"
-url_source: "#"
-url_project: ""
+url_source: ""
+url_project: "/summary.pdf"
 
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
