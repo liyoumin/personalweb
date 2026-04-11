@@ -621,7 +621,7 @@ void loop() {
 ```
 {{< /spoiler >}}
 
-{{< spoiler text="👉 Click to view the ESP DTH Cloud Data" >}}
+{{< spoiler text="👉 Click to view the ESP DHT Cloud Data" >}}
 ```c++
 #include <WiFi.h>
 #include <DHT.h>
