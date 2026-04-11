@@ -29,8 +29,11 @@ Adopte a Smart Agriculture IoT controller with Arduino Mega2560 + DHT11 + LCD160
 
 ## Video
 
-This example project builds a Smart Drip Irrigation (SDI) controller for alfalfa production in Western semi-arid states. The system reads soil moisture and air temperature/humidity to decide when to turn a water pump (pressure irrigation) on/off. The goal is to maintain soil moisture within a target range (avoid under-watering and over-watering) while adapting irrigation timing to hot/dry conditions that increase evapotranspiration. The controller logs sensor data and pump status for monitoring and debugging.
+This project builds a Smart Drip Irrigation (SDI) controller for alfalfa production in Western semi-arid states. The system reads soil moisture and air temperature/humidity to decide when to turn a water pump (pressure irrigation) on/off. ESP-32 can receive the Opean Weather live data in a larger scale and receive commands from phone. The goal is to maintain soil moisture within a target range (avoid under-watering and over-watering) while adapting irrigation timing to hot/dry conditions that increase evapotranspiration. The controller logs sensor data and pump status for monitoring and debugging.
 
+{{< youtube zVbBnX-RvFI >}}
+
+Here is an example:
 {{< youtube ciD3ILxgXzU >}}
 
 
