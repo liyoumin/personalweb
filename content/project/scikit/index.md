@@ -33,7 +33,7 @@ This project builds a Smart Drip Irrigation (SDI) controller for alfalfa product
 
 {{< youtube zVbBnX-RvFI >}}
 
-Here is an example:
+Here is a tutorial example:
 {{< youtube ciD3ILxgXzU >}}
 
 
