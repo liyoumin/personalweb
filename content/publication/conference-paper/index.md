@@ -26,8 +26,8 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Agricultural & Applied Economics Association*
-publication_short: In *AAEA&WAEA*
+publication: In *Agricultural & Applied Economics Association and Western Agricultural Economics Association joint annual meeting* and *World Congress Environment and Resource Economics* 
+publication_short: In *AAEA&WAEA*; *WCERE*
 
 abstract: The trade war was triggered by US concerns about the trade deficit, intellectual property theft, and unfair trade practices. This paper studied the far-reaching impacts of the U.S.- China trade war on agricultural trade dynamics, focusing on the Chinese dairy-livestock belt (primarily in Inner Mongolia) and U.S. agricultural competitiveness. According to time-series data from the China Dairy Association, the paper identified a marked decline in per capita milk production in Inner Mongolia and highlights the economic ripple effects of tariff policies on both nations. The imposition of tariffs on critical commodities, such as alfalfa, oats, and soybeans disrupted supply chains and escalated production costs for Chinese dairy farmers, while simultaneously reducing the global competitiveness of U.S. exports. The paper further analyzes various scenarios regarding tariff impacts and examines how subsidies mitigate the effects of twin tariffs. Results illusion that tariffs on inelastic goods disproportionately affect economic efficiency, leading to cascading supply chain issues.
 
@@ -47,7 +47,7 @@ featured: true
 
 url_pdf: 'https://doi.org/10.22004/ag.econ.361012'
 url_code: 'https://github.com/liyoumin/Trade-tarrifs-impacts-on_Chinnese_dairy/blob/main/estimates.R'
-url_slides: "/slides.pdf"
+url_slides: "https://github.com/liyoumin/personalweb/blob/main/content/publication/conference-paper/slides.pdf"
 url_source: "https://doi.org/10.22004/ag.econ.361012"
 url_video: 'https://canva.link/pdgrkhfd880mf13'
 url_poster: ''
@@ -68,12 +68,7 @@ image:
 projects:
   - example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+
 ---
 
 {{% callout note %}}
