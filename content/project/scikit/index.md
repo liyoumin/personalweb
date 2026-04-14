@@ -1,7 +1,7 @@
 ---
 title: How Drought Shocks Alfalfa Production and Export? Evidence from U.S. Alfalfa Spatial Diagnostics and Panel Analysis
 date: 2025-10-26
-# Link directly to your PDF on Overleaf
+# Link directly to your PDF 
 url_pdf: "/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf" 
 url_slides: "/personalweb/project/scikit/Presentation_alfalfa.pdf" 
 url_poster: "/personalweb/project/scikit/poster.pdf" 
@@ -11,6 +11,17 @@ url_code: ""
 url_dataset: "/personalweb/project/scikit/Irrigation output.png" 
 url_project: "/personalweb/project/scikit/Motivation.png"
 
+links:
+- code and data open access
+  url: "https://github.com/liyoumin/Geospatial-AgEcon"
+  icon_pack: fab
+  icon: github
+links:
+- name: Smart Irrigation (IoT)
+  url: "https://github.com/liyoumin/Geospatial-AgEcon/tree/main/smart-irrigation"
+  icon_pack: fab
+  icon: github
+  
 tags:
   - Smart Agriculture
   - Geo-computation
@@ -747,6 +758,7 @@ Arduino - C++
 ArcGIS - Arcpy {{< icon name="python" >}};
 Econometric Statistic - R {{< icon name="R" >}}
 
+'''
 links:
 - code and data open access
   url: "https://github.com/liyoumin/Geospatial-AgEcon"
