@@ -692,7 +692,9 @@ if ((millis() - lastTime) > timerDelay) {
 {{< /spoiler >}}
 
 ## Inline Images
-Arduino
-{{< icon name="c++" >}} C++
+Arduino - C++
+{{< icon name="c++" >}};
+ArcGIS - Arcpy {{< icon name="python" >}};
+Econometric Statistic - R {{< icon name="R" >}}
   
 <!--more-->
