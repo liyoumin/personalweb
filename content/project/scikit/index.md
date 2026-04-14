@@ -748,10 +748,9 @@ ArcGIS - Arcpy {{< icon name="python" >}};
 Econometric Statistic - R {{< icon name="R" >}}
 
 ---
-links:
 - code and data open access
   url: "https://github.com/liyoumin/Geospatial-AgEcon" {{< icon name="github" >}}
-links:
+
 - name: Smart Irrigation (IoT)
   url: "https://github.com/liyoumin/Geospatial-AgEcon/tree/main/smart-irrigation" {{< icon name="github" >}}
 ---
