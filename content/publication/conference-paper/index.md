@@ -49,7 +49,7 @@ url_pdf: 'https://doi.org/10.22004/ag.econ.361012'
 url_code: 'https://github.com/liyoumin/Trade-tarrifs-impacts-on_Chinnese_dairy/blob/main/estimates.R'
 url_slides: "/slides.pdf"
 url_source: "https://doi.org/10.22004/ag.econ.361012"
-url_video: 'https://youtube.com'
+url_video: 'https://canva.link/pdgrkhfd880mf13'
 url_poster: ''
 url_project: "#"
 
