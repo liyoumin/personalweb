@@ -10,17 +10,6 @@ url_video: "/personalweb/project/scikit/SimpleSDI.MP4"
 url_code: "" 
 url_dataset: "/personalweb/project/scikit/Irrigation output.png" 
 url_project: "/personalweb/project/scikit/Motivation.png"
-
-links:
-- code and data open access
-  url: "https://github.com/liyoumin/Geospatial-AgEcon"
-  icon_pack: fab
-  icon: github
-links:
-- name: Smart Irrigation (IoT)
-  url: "https://github.com/liyoumin/Geospatial-AgEcon/tree/main/smart-irrigation"
-  icon_pack: fab
-  icon: github
   
 tags:
   - Smart Agriculture
