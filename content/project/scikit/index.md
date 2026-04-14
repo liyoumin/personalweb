@@ -697,5 +697,14 @@ Arduino - C++
 ArcGIS - Arcpy {{< icon name="python" >}};
 Econometric Statistic - R {{< icon name="R" >}}
 
-url_code_and_data_share: "https://github.com/liyoumin/Geospatial-AgEcon"
+links:
+- code and data open access
+  url: "https://github.com/liyoumin/Geospatial-AgEcon"
+  icon_pack: fab
+  icon: github
+links:
+- name: Smart Irrigation (IoT)
+  url: "https://github.com/liyoumin/Geospatial-AgEcon/tree/main/smart-irrigation"
+  icon_pack: fab
+  icon: github
 <!--more-->
