@@ -56,7 +56,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'notyet'
-  - area: Erasmus M.Sc. and M.A. Agricultural & Resource Economics
+  - area: Erasmus M.Sc. Rural Development and M.A. Agricultural & Resource Economics
     institution: Ghent University (Belgium), Humboldt University zu Berlin (Germany), Seoul National University (South Korea)
     date_start: 2021-09-01
     date_end: 2024-07-31
@@ -67,7 +67,7 @@ education:
       - Prof. Kim Kwansoo
       - Prof. Dagmar Mithöfer
   - area: BSc Agricultural & Forest Economics and Management
-    institution: Lanzhou University
+    institution: Lanzhou University and SungkyunKwan University (Exchange Student in Economics)
     date_start: 2017-09-01
     date_end: 2021-06-17
     summary: |
@@ -116,10 +116,10 @@ skills:
         description: ''
         percent: 100
         icon: brands/github
-      - name: ArcGIS/QGIS
+      - name: ArcGIS/ArcPy/QGIS
         description: ''
         percent: 40
-        icon: brands/arcgis
+        icon: brands/python 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -170,7 +170,7 @@ Scholarship:
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
     date: "2023-10-01"
-    awarder: "EU Erasmus Committee; Seoul National University; Korean Government; China Scholarship Council"
+    awarder: "EU Erasmus Committee; Seoul National University; South Korean Government; China Scholarship Council"
     icon: "graduation-cap"
     summary: |
       Competitive international scholarships supporting graduate study and academic exchange.
