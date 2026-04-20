@@ -37,9 +37,9 @@ Here is a tutorial example:
 {{< youtube ciD3ILxgXzU >}}
 
 
-#**Video file**
-#<!-- Videos in `assets/media/` media library or in [page's folder](https://gohugo.io/content-management/page-bundles/), then embedding them with the _video_ shortcode: -->
-#    {{</* video src="smartSDI.mp4" controls="yes" */>}}
+**Video file**
+<!-- Videos in `assets/media/` media library or in [page's folder]: -->
+    {{</* video src="smartSDI.mp4" controls="yes" */>}}
 
 
 ## Core functions
