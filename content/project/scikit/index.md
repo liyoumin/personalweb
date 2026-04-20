@@ -64,7 +64,8 @@ Sensor fault → fail-safe pump OFF.
 LCD display (1602 I2C or parallel): show Soil%, Temp, RH, Pump state
 Data logging to SD card module (CSV file)
 RTC clock module for time-stamped logs and “no watering at midday” rule
-ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
+ESP-32D: send live data to Wi-Fi dashboard / phone (IoT extension)
+ESP-32: receive OpenWeather data and upload it with other live to Thingspeak cloud platform.
 ```
 
 ## Hardware
@@ -79,7 +80,7 @@ ESP-32D: send data to Wi-Fi dashboard / phone (IoT extension)
    Water tank -> Pump -> Filter -> Drip line -> Alfalfa plot
    LCD (I2C)  SDA/SCL -> Mega SDA/SCL; V0 -> potentionmeter
    SD module  CS/MOSI/MISO/SCK -> Mega SPI pins
-   ESP-32D:    WiFi upload data and commands send from phone (MEGA RX1-ESP TX; MEGA TX1-ESP RX)
+   ESP-32D:    WiFi upload data and commands send from phone (MEGA RX0-ESP TX; MEGA TX0-ESP RX)
    Pinpad instruction: A -> starts irrigation; B -> stops pump; C -> forces MANUAL Mod; 
    number + # -> set irrigation volum mL; D -> forces AUTO
 ```
