@@ -544,12 +544,12 @@ void loop() {
 
 
 
-{{< spoiler text="👉 Click to view the ESP data read" >}}
+{{< spoiler text="👉 Click to view the ESP live data read through phone" >}}
 ```c++
 /*
   ESP32 Dev Module code for Smart Irrigation System
   -------------------------------------------------
-  Mega2560 protocol. 192.168.4.1
+  IP: 192.168.4.1
 
   Functions:
   - Reads telemetry from Mega2560 over UART
@@ -561,7 +561,7 @@ void loop() {
       STOP
       VOL=xxx
 
-  ESP32 board: "ESP32 Dev Module"
+  ESP32 board: "ESP32 Dev Module" Port- com5
 */
 
 #include <WiFi.h>
@@ -578,7 +578,7 @@ const char* AP_PASS   = "12345678";
 
 // ===================== UART TO MEGA =====================
 // ESP32 Serial2 pins (change if your wiring is different)
-static const int MEGA_RX_PIN = 16;   // ESP32 RX2  <- Mega TX1 (through voltage divider)
+static const int MEGA_RX_PIN = 16;   // ESP32 RX2  <- Mega TX1 
 static const int MEGA_TX_PIN = 17;   // ESP32 TX2  -> Mega RX1
 static const uint32_t MEGA_BAUD = 9600;
 
