@@ -6,12 +6,33 @@ url_pdf: "/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf"
 url_slides: "/personalweb/project/scikit/Presentation_alfalfa.pdf" 
 url_poster: "/personalweb/project/scikit/poster.pdf" 
 url_abstract: "/personalweb/project/scikit/AAEADrought_alfalfa.pdf" 
-url_video: "/personalweb/project/scikit/SimpleSDI.MP4" 
 url_code: "https://github.com/liyoumin/Geospatial-AgEcon/tree/main/smart-irrigation" 
 url_irrigation: "/personalweb/project/scikit/Irrigation output.png" 
 url_motivation: "/personalweb/project/scikit/Motivation.png"
 url_report: "/personalweb/project/scikit/Smart Alfalfa Irrigation System.pdf"
 url_extension: "/personalweb/project/scikit/Smart_Drip_Irrigation_Project_Presentation.pdf"
+
+links:
+  - name: Abstract
+    url: "/personalweb/project/scikit/AAEADrought_alfalfa.pdf"
+    icon_pack: fas
+    icon: file-alt
+  - name: Irrigation
+    url: "/personalweb/project/scikit/Irrigation output.png"
+    icon_pack: fas
+    icon: water
+  - name: Motivation
+    url: "/personalweb/project/scikit/Motivation.png"
+    icon_pack: fas
+    icon: lightbulb
+  - name: Report
+    url: "/personalweb/project/scikit/Smart Alfalfa Irrigation System.pdf"
+    icon_pack: fas
+    icon: file-invoice
+  - name: Extension
+    url: "/personalweb/project/scikit/Smart_Drip_Irrigation_Project_Presentation.pdf"
+    icon_pack: fas
+    icon: broadcast-tower
 
 
 tags:
