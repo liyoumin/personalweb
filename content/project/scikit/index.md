@@ -5,11 +5,11 @@ date: 2025-10-26
 url_pdf: "/personalweb/project/scikit/Drought_impacts_on_alfalfa.pdf" 
 url_slides: "/personalweb/project/scikit/Presentation_alfalfa.pdf" 
 url_poster: "/personalweb/project/scikit/poster.pdf" 
-url_source: "/personalweb/project/scikit/AAEADrought_alfalfa.pdf" 
+url_abstract: "/personalweb/project/scikit/AAEADrought_alfalfa.pdf" 
 url_video: "/personalweb/project/scikit/SimpleSDI.MP4" 
 url_code: "https://github.com/liyoumin/Geospatial-AgEcon/tree/main/smart-irrigation" 
-url_dataset: "/personalweb/project/scikit/Irrigation output.png" 
-url_project: "/personalweb/project/scikit/Motivation.png"
+url_irrigation: "/personalweb/project/scikit/Irrigation output.png" 
+url_motivation: "/personalweb/project/scikit/Motivation.png"
 url_report: "/personalweb/project/scikit/Smart Alfalfa Irrigation System.pdf"
 
 tags:
