@@ -12,7 +12,6 @@ url_motivation: "/personalweb/project/scikit/Motivation.png"
 url_report: "/personalweb/project/scikit/Smart Alfalfa Irrigation System.pdf"
 url_extension: "/personalweb/project/scikit/Smart_Drip_Irrigation_Project_Presentation.pdf"
 url_policy brief: "/personalweb/project/scikit/Policy Brief - AAEA.pdf"
-url_present: "/personalweb/project/scikit/Presentation_gis.pdf"
 
 links:
   - name: Abstract
@@ -35,7 +34,14 @@ links:
     url: "/personalweb/project/scikit/Smart_Drip_Irrigation_Project_Presentation.pdf"
     icon_pack: fas
     icon: broadcast-tower
-
+  - name: policy brief
+    url: "/personalweb/project/scikit/Policy Brief - AAEA.pdf"
+    icon_pack: fas
+    icon: file-contract
+  - name: present
+    url: "/personalweb/project/scikit/Presentation_gis.pdf"
+    icon_pack: fas
+    icon: landmark
 
 tags:
   - Smart Agriculture
