@@ -11,7 +11,7 @@ url_irrigation: "/personalweb/project/scikit/Irrigation output.png"
 url_motivation: "/personalweb/project/scikit/Motivation.png"
 url_report: "/personalweb/project/scikit/Smart Alfalfa Irrigation System.pdf"
 url_extension: "/personalweb/project/scikit/Smart_Drip_Irrigation_Project_Presentation.pdf"
-url_policy-brief: "/personalweb/project/scikit/Policy Brief - AAEA.pdf"
+url_policy brief: "/personalweb/project/scikit/Policy Brief - AAEA.pdf"
 url_present: "/personalweb/project/scikit/Presentation_gis.pdf"
 
 links:
