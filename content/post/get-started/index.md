@@ -15,7 +15,14 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
 
-**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026
+**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026
+
+**Presentation:**
+* **Tariffs' Impacts on China's Dairy Production System: The Case of Twin Tariffs** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & WCERE, Lisbon, Portugal (2026)*
+* **Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & Southern Extension Economics Committee, Pensacola, FL (2025)*
+* **Spatial Heterogeneity of Drought Shocks and Irrigation Buffers in the U.S. Alfalfa System** *Poster presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
+* **Conserving Water in U.S. Alfalfa Production: Implications of Smart Irrigation under Drought** *Policy brief presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
+* **Consumer Perceptions and Olive Oil Choice: An Integrated Machine-Learning Approach for Measurement, Segmentation, and Prediction** *Paper presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
 
 **Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Extension Water & Resource session (2025, 2026); Presenter in Environmental & Resource Economics (2026); Presenter in Experimental Economics session (2026)
 
@@ -23,12 +30,6 @@ Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-Presentation:
-  - Tariffs Impacts on China Dairy Production System: The Case of Twin Tariffs (Paper presentated in 2025 AAEA Danver, CO; 2026 WCERE Lisbon, Portugal)
-  - Payment for Ecosystem Services in the Era of Sustainable Agriculture Insights from The Northern Everglades Payment for Environmental Services Program (Paper presented in 2025 AAEA Danver, CO; 2025 Southern Extension Pennsacola, FL)
-  - Spatial Heterogeneity of Drought Shocks and Irrigation Buffers in U.S. Alfalfa System (Poster in 2025 AAEA Kansas, MO)
-  - Conserving Water in U.S. Alfalfa Production: Implications of Smart Irrigation in Alfalfa System under Drought (Policy brief in Kansas, MO)
-  - Consumer Perceptions and Olive Oil Choice: An Integrated Machine-Learning Approach for Measurement, Segmentation, and Prediction (Paper in Kansas, MO)
 
 ## Applied & Agriculturral Economics Association (AAEA&WAEA) Annual Meeting 
 
