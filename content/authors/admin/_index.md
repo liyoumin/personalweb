@@ -159,15 +159,6 @@ Awards:
     summary: |
       Competitive scholarship supporting Chinese PhD graduate study in the U.S. ($6,000)
 
-  - title: "Grinter Fellowship"
-    url: "https://grad.ufl.edu/gss/funding/grinter/"
-    certificate_url: ""
-    date: "2024-10-01"
-    awarder: "University of Florida"
-    icon: "university"
-    summary: |
-      Merit-based fellowship awarded for academic excellence. Amount: $2,500.
-
   - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
     url: "https://giving.uff.ufl.edu/giving-opportunities/014967-robert-g-stubbs-and-henry-g-hamilton-scholarship-fund/"
     certificate_url: ""
@@ -177,15 +168,15 @@ Awards:
     summary: |
       Merit-based scholarship awarded for academic excellence. Amount: $4,000.
 
-  - title: "SNU Global Subsidy Scholarship"
-    url: ""
+  - title: "Grinter Fellowship"
+    url: "https://grad.ufl.edu/gss/funding/grinter/"
     certificate_url: ""
-    date: "2023-10-01"
-    awarder: "Seoul National University / South Korean Government"
-    icon: "graduation-cap"
+    date: "2024-10-01"
+    awarder: "University of Florida"
+    icon: "university"
     summary: |
-      Competitive international scholarship supporting graduate study and academic exchange. Amount: 3 million Korean won.
-
+      Merit-based fellowship awarded for academic excellence. Amount: $2,500.
+    
   - title: "Erasmus Mundus Scholarship"
     url: "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
     certificate_url: "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
@@ -194,6 +185,15 @@ Awards:
     icon: "graduation-cap"
     summary: |
       Competitive international scholarship supporting graduate study in Europe. Support included a tuition waiver and 1,000 euros per month from 2022-09-01 to 2024-07-01.
+ 
+  - title: "SNU Global Subsidy Scholarship"
+    url: ""
+    certificate_url: ""
+    date: "2023-10-01"
+    awarder: "Seoul National University / South Korean Government"
+    icon: "graduation-cap"
+    summary: |
+      Competitive international scholarship supporting graduate study and academic exchange. Amount: 3 million Korean won.
   
   - title: UF Research Grad Travel Grant
     url: https://wcere2026.org/
