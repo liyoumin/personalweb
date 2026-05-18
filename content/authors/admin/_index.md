@@ -156,12 +156,14 @@ Awards:
     awarder: UF resarch center
     icon: <i class="fas fa-university"></i> 
     summary: |
+       Me
   - title: WCERE Sponsored Travel Grant
     url: https://wcere2026.org/
     date: '2026-06-29'
     awarder: WCERE
     icon: <i class="fas fa-university"></i> 
     summary: |
+        Me
   - title: AAEA Section Sponsored Travel Grant (COSBAE) 
     url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
     date: '2025-07-29'
@@ -169,6 +171,7 @@ Awards:
     icon: <i class="fas fa-university"></i> 
     summary: |
       I studied the foundational concept of . By the end, I was familiar with the significant; and apply deep learning to your own applications.
+    
   - title: 3rd. Prize of the 12th National University Mathematics Competition 
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     date: '2019-12-31'
