@@ -1,5 +1,5 @@
 ---
-title: Conferences/Meetings Attended
+title: Extension Conferences/Meetings Attended
 summary: Regional Conference
 date: 2026-05-17
 math: true
