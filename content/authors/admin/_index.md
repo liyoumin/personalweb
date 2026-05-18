@@ -152,7 +152,7 @@ Awards:
 
   - title: "CSC Scholarship"
     url: "https://www.csc.edu.cn/"
-    certificate_url: ""
+    certificate_url: "https://www.csc.edu.cn/"
     date: "2026-06-01"
     awarder: "China Scholarship Council"
     icon: "graduation-cap"
@@ -161,7 +161,7 @@ Awards:
 
   - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
     url: "https://giving.uff.ufl.edu/giving-opportunities/014967-robert-g-stubbs-and-henry-g-hamilton-scholarship-fund/"
-    certificate_url: ""
+    certificate_url: "https://giving.uff.ufl.edu/giving-opportunities/014967-robert-g-stubbs-and-henry-g-hamilton-scholarship-fund/"
     date: "2025-08-22"
     awarder: "University of Florida"
     icon: "university"
@@ -170,7 +170,7 @@ Awards:
 
   - title: "Grinter Fellowship"
     url: "https://grad.ufl.edu/gss/funding/grinter/"
-    certificate_url: ""
+    certificate_url: "https://grad.ufl.edu/gss/funding/grinter/"
     date: "2024-03-01"
     awarder: "University of Florida"
     icon: "university"
@@ -187,8 +187,8 @@ Awards:
       Competitive international scholarship supporting graduate study in Europe. Support included a tuition waiver and 1,000 euros per month from 2022-09-01 to 2024-07-01.
  
   - title: "SNU Global Subsidy Scholarship"
-    url: ""
-    certificate_url: ""
+    url: "https://health.snu.ac.kr/en/"
+    certificate_url: "https://health.snu.ac.kr/%ed%95%99%ec%82%ac%ea%b3%b5%ec%a7%80/?mod=document&uid=5118#none"
     date: "2023-10-01"
     awarder: "Seoul National University / South Korean Government"
     icon: "graduation-cap"
