@@ -150,6 +150,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 Awards:
+  - title: UF Research Grad Travel Grant
+    url: https://wcere2026.org/
+    date: '2026-06-29'
+    awarder: UF resarch center
+    icon: <i class="fas fa-university"></i> 
+    summary: |
+  - title: WCERE Sponsored Travel Grant
+    url: https://wcere2026.org/
+    date: '2026-06-29'
+    awarder: WCERE
+    icon: <i class="fas fa-university"></i> 
+    summary: |
   - title: AAEA Section Sponsored Travel Grant (COSBAE) 
     url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
     date: '2025-07-29'
@@ -166,23 +178,50 @@ Awards:
       National-level mathematics competition award.
 
 Scholarship:
-  - title: "SNU Global Subsidy Scholarship; Erasmus Scholarship"
+  - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
+    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
+    certificate_url: "https://www.datacamp.com"
+    date: "2024-09-01"
+    awarder: "University of Florida; China Scholarship Council" $4000.
+    icon: "graduation-cap"
+    summary: |
+      Competitive scholarships supporting graduate study.
+    
+  - title: "CSC Scholarship"
+    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
+    certificate_url: "https://www.datacamp.com"
+    date: "2026-06-01"
+    awarder: "China Scholarship Council" $6000.
+    icon: "graduation-cap"
+    summary: |
+      Competitive scholarships supporting Chinese PhD graduate study in U.S.
+    
+  - title: "Erasmus Scholarship"
+    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
+    certificate_url: "https://www.datacamp.com"
+    date: "2022-09-01"
+    awarder: "EU Erasmus Committee"
+    icon: "graduation-cap"
+    summary: |
+      Competitive international scholarships supporting graduate study. 1000 euros per month and tuition fee waiver.
+
+  - title: "SNU Global Subsidy Scholarship"
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
     date: "2023-10-01"
-    awarder: "EU Erasmus Committee; Seoul National University; South Korean Government; China Scholarship Council"
+    awarder: "Seoul National University; South Korean Government" 3 million korean won.
     icon: "graduation-cap"
     summary: |
       Competitive international scholarships supporting graduate study and academic exchange.
 
-  - title: "Grinter Scholarship; Hamilton Scholarship"
+  - title: "Grinter Fellowship"
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
     date: "2024-10-01"
     awarder: "University of Florida"
     icon: "university"
     summary: |
-      Merit-based scholarships awarded for academic excellence.
+      Merit-based scholarships awarded for academic excellence. $2500.
 ---
 
 ## About Me
