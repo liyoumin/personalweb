@@ -1,7 +1,7 @@
 ---
 title: Conferences/Meetings
 summary: Regional Conference
-date: 2026-05-17; 2026-04-18; 2025-09-30
+date: 2026-05-17
 math: true
 
 tags:
