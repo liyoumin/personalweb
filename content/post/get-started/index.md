@@ -15,7 +15,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
 
-**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026
+**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026.
 **Workshops:**
 DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA.
 
