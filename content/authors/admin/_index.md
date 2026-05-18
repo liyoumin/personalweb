@@ -149,39 +149,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 Awards:
-  - title: UF Research Grad Travel Grant
-    url: https://wcere2026.org/
-    date: '2026-04-29'
-    awarder: UF resarch center
-    icon: <i class="fas fa-university"></i> 
-    summary: |
-       UF Research Grad Travel Grant $400.
 
-  - title: WCERE Sponsored Travel Grant
-    url: https://wcere2026.org/
-    date: '2026-03-29'
-    awarder: WCERE
-    icon: <i class="fas fa-university"></i> 
-    summary: |
-        800 euros.
-    
-  - title: AAEA Section Sponsored Travel Grant (COSBAE) 
-    url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
-    date: '2025-07-29'
-    awarder: AAEA
-    icon: <i class="fas fa-university"></i> 
-    summary: |
-      $500.
-    
-  - title: 3rd. Prize of the 12th National University Mathematics Competition 
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    date: '2019-12-31'
-    awarder: "Chinese Mathematical Association (CMA)"
-    icon: "award"
-    summary: |
-      National-level mathematics competition award.
----
-Scholarship:
   - title: "CSC Scholarship"
     url: "https://www.csc.edu.cn/"
     certificate_url: ""
@@ -226,6 +194,38 @@ Scholarship:
     icon: "graduation-cap"
     summary: |
       Competitive international scholarship supporting graduate study in Europe. Support included a tuition waiver and 1,000 euros per month from 2022-09-01 to 2024-07-01.
+  
+  - title: UF Research Grad Travel Grant
+    url: https://wcere2026.org/
+    date: '2026-04-29'
+    awarder: UF resarch center
+    icon: <i class="fas fa-university"></i> 
+    summary: |
+       UF Research Grad Travel Grant $400.
+
+  - title: WCERE Sponsored Travel Grant
+    url: https://wcere2026.org/
+    date: '2026-03-29'
+    awarder: WCERE
+    icon: <i class="fas fa-university"></i> 
+    summary: |
+        800 euros.
+    
+  - title: AAEA Section Sponsored Travel Grant (COSBAE) 
+    url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
+    date: '2025-07-29'
+    awarder: AAEA
+    icon: <i class="fas fa-university"></i> 
+    summary: |
+      $500.
+    
+  - title: 3rd. Prize of the 12th National University Mathematics Competition 
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    date: '2019-12-31'
+    awarder: "Chinese Mathematical Association (CMA)"
+    icon: "award"
+    summary: |
+      National-level mathematics competition award.
 ---
 
 ## About Me
