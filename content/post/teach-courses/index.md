@@ -1,7 +1,7 @@
 ---
 title: Conferences
 summary: Embed videos, podcasts, code, LaTeX math, and test students!
-date: 2026-05-17
+date: 2026-05-17; 2026-04-18; 2025-09-30
 math: true
 
 tags:
