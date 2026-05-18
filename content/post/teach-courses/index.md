@@ -1,26 +1,36 @@
 ---
-title: 👩🏼‍🏫 Florida Agriculture Financial Management Conference (FLAFMC)
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2025-09-30
+title: Attennd Conference
+summary: Embed videos, podcasts, code, LaTeX math, and test students!
+date: 2026-05-17
 math: true
 
 tags:
-  - Analyzing financial performance
+  - Water and Waste Management
+  - Extension
+  - Financial performance
   - Exploring new market opportunities
-  - Managing risk
+  - Managing risk (Drought)
   - Enhancing cybersecurity and navigating evolving regulatory and technological landscapes. 
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-**Florida Agriculture Financial Management Conference**
+**INTERNATIONAL RESOURCE RECOVERY CONFERENCE & EXPO on WATER, WASTE MANAGEMENT, ONE HEALTH, and ENERGY - 2026 UF Gainesville, FL**
+
+The organization features a network of over 500 subject matter experts spanning the USA, India, Austria, Canada, Europe, Singapore, and Thailand. On average, its professional collective brings over 20 years of individual industry experience to the mission.
+
+**Annual Florida Agricultural Policy Outlook Conference - 2026 Apoka, FL**
+
+Examines critical policy issues facing Florida agribusiness leaders and explores valuable economic insights helpful for making informed business and policy decisions. Optional facility tour included.
+
+**Florida Agriculture Financial Management Conference - 2025 Orlando, FL**
 
 The event offers a dynamic platform for networking with peers, sharing best practices, and discussing the impact of current financial markets on agribusiness. Whether you manage a large farm, a small operation, or serve agricultural or horticulture clients in a financial or legal capacity, this conference is for you. We welcome farm owners and managers, CFOs, CPAs, controllers, accountants, bookkeepers, lenders, and attorneys who work in the ag sector. Both CPE and CLE credits will be available.
 
 
 ## Video
 
-FLAFMC isn’t just about education…it’s about building relationships, discovering solutions, and shaping the future of Florida’s agricultural communities. 
+WWM; FLAFMC
 
 **Youtube**:
 
