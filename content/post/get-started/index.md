@@ -16,6 +16,7 @@ image:
 ---
 
 **Conferences:** AAEA in Denver, CO, July 2025; SEEC in Pensacola, FL, May 2025; AAEA in Kansas City, MO, July 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal, June 2026; Korean Agricultural Economics Association (KAEA), Seoul, South Korea, July 2024
+
 **Workshops:**
 DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA; 
 Erasmus IMRD - Small Farms and Agro-ecosystem Services, Pisa University & Garfagnana Municipality City Hall, Tuscany, Italy, July 2023
@@ -50,6 +51,12 @@ The premier annual event for the Agricultural & Applied Economics Association. I
 
 The premier global gathering organized by the World Council of Environmental and Resource Economists Associations (WCEREA). Bringing together researchers, policymakers, and practitioners from around the world to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
 
+## Korean Agricultural Economics Association (KAEA) Annual Meeting
+**Date:** July 2024  
+**Location:** Seoul National University, Seoul, South Korea  
+
+The core national forum for agricultural and applied economics research in South Korea, focusing on sustainable agricultural development, international food trade policy, consumer behavior metrics, and rural economic stability.
+
 ## DSSAT International Training Program Workshop
 
 **Date:** May 18 – May 23, 2027  
@@ -64,12 +71,6 @@ An intensive workshop focused on the operation of the Decision Support System fo
 **Focus:** Regional Academic Collaboration  
 
 A collaborative committee comprised of extension agricultural economists across the 13-state southern region. The committee facilitates the sharing of methodology, coordinates multi-state research applications, and drives regional agricultural insights—including the joint peer-reviewed analysis and daily insights published via *Southern Ag Today*.
-
-## Korean Agricultural Economics Association (KAEA) Annual Meeting
-**Date:** July 2024  
-**Location:** Seoul National University, Seoul, South Korea  
-
-The core national forum for agricultural and applied economics research in South Korea, focusing on sustainable agricultural development, international food trade policy, consumer behavior metrics, and rural economic stability.
 
 ### Get Started
 
