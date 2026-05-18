@@ -152,7 +152,7 @@ languages:
 Awards:
   - title: UF Research Grad Travel Grant
     url: https://wcere2026.org/
-    date: '2026-06-29'
+    date: '2026-04-29'
     awarder: UF resarch center
     icon: <i class="fas fa-university"></i> 
     summary: |
@@ -160,7 +160,7 @@ Awards:
 
   - title: WCERE Sponsored Travel Grant
     url: https://wcere2026.org/
-    date: '2026-06-29'
+    date: '2026-03-29'
     awarder: WCERE
     icon: <i class="fas fa-university"></i> 
     summary: |
@@ -183,6 +183,14 @@ Awards:
       National-level mathematics competition award.
 
 Scholarship:
+  - title: "CSC Scholarship"
+    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
+    certificate_url: "https://www.datacamp.com"
+    date: "2026-05-01"
+    awarder: "China Scholarship Council"
+    icon: "graduation-cap"
+    summary: |
+      Competitive scholarships supporting Chinese PhD graduate study in U.S.
     
   - title: "Grinter Fellowship (2500 USD) Robert G Stubbs and Henry G Hamilton Scholarship (6000 USD)"
     url: "https://grad.ufl.edu/gss/funding/grinter/"
