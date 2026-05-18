@@ -1,6 +1,6 @@
 ---
-title: Conferences
-summary: Embed videos, podcasts, code, LaTeX math, and test students!
+title: Conferences/Meetings
+summary: Regional Conference
 date: 2026-05-17; 2026-04-18; 2025-09-30
 math: true
 
@@ -52,8 +52,6 @@ Videos may be added to a page by either placing them in your `assets/media/` med
 
 ## Podcast
 
-
-
     {{</* audio src="ambient-piano.mp3" */>}}
 
 Try it out:
@@ -61,9 +59,27 @@ Try it out:
 {{< audio src="ambient-piano.mp3" >}}
 
 
+## Code
+
+Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+
+
+    ```python
+    import pandas as pd
+    data = pd.read_csv("data.csv")
+    data.head()
+    ```
+
+renders as
+
+```python
+import pandas as pd
+data = pd.read_csv("data.csv")
+data.head()
+```
 ## Math
 
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
+Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
 
 ```yaml
 features:
@@ -100,34 +116,3 @@ $$
 f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}
 $$
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
