@@ -1,7 +1,7 @@
 ---
-title: AAEA in Denver, CO 
-summary: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1
-date: 2025-07-27
+title: AAEA in Denver, CO 2025; AAEA in Kansas, MO 2026
+summary: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Extension water & resoiurce session (2025, 2026); Presenter in Environment & Resource Economic (2026); Presenter in Experimental economics session (2026)
+date: 2025-07-27; 2027-07-29
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -9,7 +9,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 
 authors:
-  - admin
+  - Youmin Li
   - 
 
 tags:
