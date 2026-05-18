@@ -183,7 +183,6 @@ Awards:
       National-level mathematics competition award.
 
 Scholarship:
-Scholarship:
   - title: "CSC Scholarship"
     url: "https://www.csc.edu.cn/"
     certificate_url: ""
@@ -191,7 +190,7 @@ Scholarship:
     awarder: "China Scholarship Council"
     icon: "graduation-cap"
     summary: |
-      Competitive scholarship supporting Chinese PhD graduate study in the U.S. ($6000)
+      Competitive scholarship supporting Chinese PhD graduate study in the U.S. ($6,000)
 
   - title: "Grinter Fellowship"
     url: "https://grad.ufl.edu/gss/funding/grinter/"
@@ -203,13 +202,13 @@ Scholarship:
       Merit-based fellowship awarded for academic excellence. Amount: $2,500.
 
   - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
-    url: ""
+    url: "https://giving.uff.ufl.edu/giving-opportunities/014967-robert-g-stubbs-and-henry-g-hamilton-scholarship-fund/"
     certificate_url: ""
     date: "2026-08-22"
     awarder: "University of Florida"
     icon: "university"
     summary: |
-      Merit-based scholarship awarded for academic excellence. Amount: $6,000.
+      Merit-based scholarship awarded for academic excellence. Amount: $4,000.
 
   - title: "SNU Global Subsidy Scholarship"
     url: ""
