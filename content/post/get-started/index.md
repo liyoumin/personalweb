@@ -2,11 +2,7 @@
 title: Academic Conferences & Committees
 summary: Overview of attended academic congress/confernce/workshop participation and regional extension meetings involvement.
 math: true
-
-Conference: AAEA in Denver, CO 2025; SEEC in Pennsacola, FL; AAEA in Kansas, MO 2026; World Congress of Environment and Resouce Economics (WCERE), Lisbon, Portugal 2026
-
-Role: Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Extension water & resoiurce session (2025, 2026); Presenter in Environment & Resource Economic (2026); Presenter in Experimental economics session (2026)
-date: 2025-05-28; 2025-07-27; 2026-06-29; 2026-07-29
+date: 2026-05-17
 
 tags:
   - Agricultural Economics
@@ -18,6 +14,10 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
+
+**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026
+
+**Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Extension Water & Resource session (2025, 2026); Presenter in Environmental & Resource Economics (2026); Presenter in Experimental Economics session (2026)
 
 Welcome 👋
 
