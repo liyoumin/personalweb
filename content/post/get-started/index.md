@@ -15,9 +15,10 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
 
-**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026.
+**Conferences:** AAEA in Denver, CO, July 2025; SEEC in Pensacola, FL, May 2025; AAEA in Kansas City, MO, July 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal, June 2026; Korean Agricultural Economics Association (KAEA), Seoul, South Korea, July 2024
 **Workshops:**
-DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA.
+DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA; 
+Erasmus IMRD - Small Farms and Agro-ecosystem Services, Pisa University & Garfagnana Municipality City Hall, Tuscany, Italy, July 2023
 
 **Presentation:**
 * **Tariffs' Impacts on China's Dairy Production System: The Case of Twin Tariffs** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & WCERE, Lisbon, Portugal (2026)*
@@ -25,8 +26,10 @@ DSSAT International Training Program (Decision Support System for Agrotechnology
 * **Spatial Heterogeneity of Drought Shocks and Irrigation Buffers in the U.S. Alfalfa System** *Poster presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
 * **Conserving Water in U.S. Alfalfa Production: Implications of Smart Irrigation under Drought** *Policy brief presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
 * **Consumer Perceptions and Olive Oil Choice: An Integrated Machine-Learning Approach for Measurement, Segmentation, and Prediction** *Paper presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
+*  **Revalorizing Garfagnana's Environment by Enhancing Chestnut Value Chain** *Presented by Youmin Li, Sandra Wickart, Hannah-Celine Caminada in Garfagnana Municipality City Hall, Italy (2023)*
+*  **The trust perception impact on Consumption Choice of Olive Oil: Case from Spain** *Paper presented at the KAEA Annual Meeting, Seoul National University, South Korea (2024)*
 
-**Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Extension Water & Resource session (2025, 2026); Presenter in Environmental & Resource Economics (2026); Presenter in Experimental Economics session (2026)
+**Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Environmental & Resource Economics Session (2026); Presenter in Experimental Economics session (2026); Presenter in Extension Economics Water Resource session (2025, 2026)
 
 Welcome to check it out👋
 
@@ -61,6 +64,12 @@ An intensive workshop focused on the operation of the Decision Support System fo
 **Focus:** Regional Academic Collaboration  
 
 A collaborative committee comprised of extension agricultural economists across the 13-state southern region. The committee facilitates the sharing of methodology, coordinates multi-state research applications, and drives regional agricultural insights—including the joint peer-reviewed analysis and daily insights published via *Southern Ag Today*.
+
+## Korean Agricultural Economics Association (KAEA) Annual Meeting
+**Date:** July 2024  
+**Location:** Seoul National University, Seoul, South Korea  
+
+The core national forum for agricultural and applied economics research in South Korea, focusing on sustainable agricultural development, international food trade policy, consumer behavior metrics, and rural economic stability.
 
 ### Get Started
 
