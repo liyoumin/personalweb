@@ -178,11 +178,11 @@ Awards:
       National-level mathematics competition award.
 
 Scholarship:
-  - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
+  - title: "Robert G Stubbs and Henry G Hamilton Scholarship"
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
     date: "2024-09-01"
-    awarder: "University of Florida; China Scholarship Council" $4000.
+    awarder: "University of Florida; China Scholarship Council" 4000 USD.
     icon: "graduation-cap"
     summary: |
       Competitive scholarships supporting graduate study.
@@ -191,7 +191,7 @@ Scholarship:
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
     date: "2026-06-01"
-    awarder: "China Scholarship Council" $6000.
+    awarder: "China Scholarship Council" 6000 USD.
     icon: "graduation-cap"
     summary: |
       Competitive scholarships supporting Chinese PhD graduate study in U.S.
