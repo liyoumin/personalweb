@@ -189,7 +189,6 @@ Scholarship:
     icon: "graduation-cap"
     summary: |
       Competitive scholarships supporting graduate study.
-    
   - title: "CSC Scholarship"
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
