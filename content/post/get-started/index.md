@@ -19,7 +19,7 @@ image:
 
 **Presentation:**
 * **Tariffs' Impacts on China's Dairy Production System: The Case of Twin Tariffs** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & WCERE, Lisbon, Portugal (2026)*
-* **Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & Southern Extension Economics Committee, Pensacola, FL (2025)*
+* **Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & SEEC, Pensacola, FL (2025)*
 * **Spatial Heterogeneity of Drought Shocks and Irrigation Buffers in the U.S. Alfalfa System** *Poster presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
 * **Conserving Water in U.S. Alfalfa Production: Implications of Smart Irrigation under Drought** *Policy brief presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
 * **Consumer Perceptions and Olive Oil Choice: An Integrated Machine-Learning Approach for Measurement, Segmentation, and Prediction** *Paper presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
@@ -49,6 +49,7 @@ The premier global gathering organized by the World Council of Environmental and
 
 ## Southern Extension Economics Committee
 
+**Date:** May 30 – June 2, 2026  
 **Activities:** Annual Summer Meetings & Southern Outlook Conference  
 **Focus:** Regional Academic Collaboration  
 
