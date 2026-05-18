@@ -183,32 +183,51 @@ Awards:
       National-level mathematics competition award.
 
 Scholarship:
+Scholarship:
   - title: "CSC Scholarship"
-    url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
-    certificate_url: "https://www.datacamp.com"
+    url: "https://www.csc.edu.cn/"
+    certificate_url: ""
     date: "2026-05-01"
     awarder: "China Scholarship Council"
     icon: "graduation-cap"
     summary: |
-      Competitive scholarships supporting Chinese PhD graduate study in U.S.
-    
-  - title: "Grinter Fellowship (2500 USD) Robert G Stubbs and Henry G Hamilton Scholarship (6000 USD)"
+      Competitive scholarship supporting Chinese PhD graduate study in the U.S. ($6000)
+
+  - title: "Grinter Fellowship"
     url: "https://grad.ufl.edu/gss/funding/grinter/"
-    certificate_url: "https://www.datacamp.com"
-    date: "2024-10-01"; "2026-08-22"
+    certificate_url: ""
+    date: "2024-10-01"
     awarder: "University of Florida"
     icon: "university"
     summary: |
-      Merit-based scholarships awarded for academic excellence.
-    
-  - title: "SNU Global Subsidy Scholarship (3 Million Korean won) Erasmus Scholarship (1000 euros per month with tuition waiver)"
-    url: "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
-    certificate_url: "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
-    date: "2023-10-01"; "2022-09-01 to 2024-07-01"
-    awarder: "Seoul National University; South Korean Government"; "European Union Erasmus Mundus".
+      Merit-based fellowship awarded for academic excellence. Amount: $2,500.
+
+  - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
+    url: ""
+    certificate_url: ""
+    date: "2026-08-22"
+    awarder: "University of Florida"
+    icon: "university"
+    summary: |
+      Merit-based scholarship awarded for academic excellence. Amount: $6,000.
+
+  - title: "SNU Global Subsidy Scholarship"
+    url: ""
+    certificate_url: ""
+    date: "2023-10-01"
+    awarder: "Seoul National University / South Korean Government"
     icon: "graduation-cap"
     summary: |
-      Competitive international scholarships supporting graduate study and academic exchange.
+      Competitive international scholarship supporting graduate study and academic exchange. Amount: 3 million Korean won.
+
+  - title: "Erasmus Mundus Scholarship"
+    url: "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
+    certificate_url: "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
+    date: "2022-09-01"
+    awarder: "European Union Erasmus Mundus"
+    icon: "graduation-cap"
+    summary: |
+      Competitive international scholarship supporting graduate study in Europe. Support included a tuition waiver and 1,000 euros per month from 2022-09-01 to 2024-07-01.
 ---
 
 ## About Me
