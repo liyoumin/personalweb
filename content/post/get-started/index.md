@@ -34,8 +34,8 @@ Welcome to check it out👋
 
 ## Applied & Agriculturral Economics Association (AAEA&WAEA) Annual Meeting 
 
-**Date:** July 25 – July 28, 2025; July 26 – July 29, 2026; 
-**Location:** Denver, CO; Kansas, MO  
+**Date:** July 25 – July 28, 2025; July 26 – July 29, 2026
+**Location:** Denver, CO; Kansas, MO; Philadelphia, PA
 
 The premier annual event for the Agricultural & Applied Economics Association. It brings together agricultural, environmental, and applied economists from academia, government, and industry worldwide to present cutting-edge research, discuss policy analysis, and engage in professional development workshops.
 
