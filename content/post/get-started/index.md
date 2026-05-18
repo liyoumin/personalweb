@@ -1,5 +1,5 @@
 ---
-title: Academic Conferences & Committees Presented
+title: Academic Conferences/Worksop & Committees Presented
 summary: Overview of attended academic congress/confernce/workshop participation and regional extension meetings involvement.
 math: true
 date: 2026-05-17
@@ -15,7 +15,8 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
 
-**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026
+**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026; DSSAT International Training Program
+(Decision Support System for Agrotechnology Transfer), Griffin, GA.
 
 **Presentation:**
 * **Tariffs' Impacts on China's Dairy Production System: The Case of Twin Tariffs** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & WCERE, Lisbon, Portugal (2026)*
@@ -45,7 +46,12 @@ The premier annual event for the Agricultural & Applied Economics Association. I
 
 The premier global gathering organized by the World Council of Environmental and Resource Economists Associations (WCEREA). Bringing together researchers, policymakers, and practitioners from around the world to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
 
----
+## DSSAT International Training Program Workshop
+
+**Date:** May 18 – May 23, 2027  
+**Location:** [University of Georgia Griffin Campus, Griffin, GA](https://griffin.uga.edu/continuing-ed/dssat/registration/)  
+
+An intensive workshop focused on the operation of the Decision Support System for Agrotechnology Transfer (DSSAT v4.8). Training emphasizes the simulation of crop growth, resource dynamics (water and nitrogen balance), climate change impact assessments, and the evaluation of sustainable agricultural management options. Assessing Crop Production, Water and Nutrient Management, Climatic Risk and Environmental Sustainability with Simulation Models.
 
 ## Southern Extension Economics Committee
 
