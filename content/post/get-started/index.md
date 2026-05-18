@@ -26,7 +26,7 @@ image:
 
 **Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Extension Water & Resource session (2025, 2026); Presenter in Environmental & Resource Economics (2026); Presenter in Experimental Economics session (2026)
 
-Welcome 👋
+Welcome to check it out👋
 
 {{< toc mobile_only=true is_open=true >}}
 
