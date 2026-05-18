@@ -153,7 +153,7 @@ Awards:
   - title: "CSC Scholarship"
     url: "https://www.csc.edu.cn/"
     certificate_url: ""
-    date: "2026-05-01"
+    date: "2026-06-01"
     awarder: "China Scholarship Council"
     icon: "graduation-cap"
     summary: |
@@ -162,7 +162,7 @@ Awards:
   - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
     url: "https://giving.uff.ufl.edu/giving-opportunities/014967-robert-g-stubbs-and-henry-g-hamilton-scholarship-fund/"
     certificate_url: ""
-    date: "2026-08-22"
+    date: "2025-08-22"
     awarder: "University of Florida"
     icon: "university"
     summary: |
@@ -171,7 +171,7 @@ Awards:
   - title: "Grinter Fellowship"
     url: "https://grad.ufl.edu/gss/funding/grinter/"
     certificate_url: ""
-    date: "2024-10-01"
+    date: "2024-03-01"
     awarder: "University of Florida"
     icon: "university"
     summary: |
