@@ -43,7 +43,7 @@ Anh here's a more advanced mindmap with formatting, code blocks, and math:
 ```markmap
 - Mindmaps
   - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Blox Docs](https://docs.hugoblox.com/)
     - [Discord Community](https://discord.gg/z8wNYzb)
     - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
   - Features
@@ -68,7 +68,6 @@ renders as
 ```markmap
 - Mindmaps
   - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
     - [Discord Community](https://discord.gg/z8wNYzb)
     - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
   - Features
@@ -117,4 +116,3 @@ Or use the `warning` callout type so your readers don't miss critical details:
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{% /callout %}}
 
-## Did you find this page helpful? Consider sharing it 🙌
