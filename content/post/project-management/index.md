@@ -61,7 +61,7 @@ Public safety and theft dynamics vary significantly by region across Europe, hea
 
 > 🛡️ **Traveler Security Insights:** Pickpockets target tourists because travelers rarely have the time or local language skills to navigate the formal justice system before their departure. To mitigate this risk, avoid obvious displays of wealth. Furthermore, adapting your wardrobe, posture, and situational awareness to match the local "eye spirit" and baseline confidence of permanent residents is the most effective way to blend in and avoid being targeted.
 
-### Honor-System Infrastructure & Social Trust
+### Honor-System Infrastructure & Social Trust and Welfare
 One of the most striking markers of advanced societal development is the complete absence of physical ticket turnstiles or check-in machines at transit stations across nations like **Germany, Switzerland, Belgium, Netherlands, Luxembourg, Denmark, Sweden, Norway, Finland, and parts of Italy**.
 Besides, the 100% coverage of medical insurance, free public university, social welfare (pension, Kindergeld and Elterngeld) makes middle and lower income class people living better life than U.S. citizen. So in my view, if you are not high level income class in U.S., immigrate to U.S. is a stupid decision. New Zealand, Canada and Australia show similar social structure with EU.
 Note: this comparsion do not include UK.
