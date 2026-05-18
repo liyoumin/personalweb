@@ -15,8 +15,9 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
 
-**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026; DSSAT International Training Program
-(Decision Support System for Agrotechnology Transfer), Griffin, GA.
+**Conferences:** AAEA in Denver, CO 2025; SEEC in Pensacola, FL 2025; AAEA in Kansas City, MO 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal 2026
+**Workshops:**
+DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA.
 
 **Presentation:**
 * **Tariffs' Impacts on China's Dairy Production System: The Case of Twin Tariffs** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & WCERE, Lisbon, Portugal (2026)*
