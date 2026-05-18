@@ -63,7 +63,7 @@ Public safety and theft dynamics vary significantly by region across Europe, hea
 
 ### Honor-System Infrastructure & Social Trust and Welfare
 One of the most striking markers of advanced societal development is the complete absence of physical ticket turnstiles or check-in machines at transit stations across nations like **Germany, Switzerland, Belgium, Netherlands, Luxembourg, Denmark, Sweden, Norway, Finland, and parts of Italy**.
-Besides, the 100% coverage of medical insurance, free public university, social welfare (pension, Kindergeld and Elterngeld) makes middle and lower income class people living better life than U.S. citizen. So in my view, if you are not high level income class in U.S., immigrate to U.S. is a stupid decision (those people usually pay more suffers their goverment do not like those people, but totally different for very rich man). New Zealand, Canada and Australia show similar social structure with EU.
+Besides, the 100% coverage of medical insurance, free public university, social welfare (pension, Kindergeld and Elterngeld) makes middle and lower income class people living better life than in U.S. So in my view, if you are not high level income class in U.S., immigrate to U.S. is a stupid decision (those people usually pay more suffers their goverment do not like those people, but totally different for very rich man). New Zealand, Canada and Australia show similar social structure with EU.
 Note: this comparsion do not include UK.
 
 | Region / Country | Station Entry Style | Enforcement Mechanism | Societal Basis |
