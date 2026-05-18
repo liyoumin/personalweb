@@ -193,7 +193,7 @@ Scholarship:
   - title: "CSC Scholarship"
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
-    date: "2026-06-01"
+    date: "2026-05-01"
     awarder: "China Scholarship Council" 6000 USD.
     icon: "graduation-cap"
     summary: |
