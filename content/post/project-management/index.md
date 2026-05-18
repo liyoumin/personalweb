@@ -43,16 +43,16 @@ AAEA Paper:
 renders as
 
 ```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
+- Modules
+  - Quantity
+  - Target
+  - WTPs
+  - Ecosystem service
 ```
 
 ## Diagrams
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+ extension for diagrams.
 
 An example **Gantt diagram**:
 
