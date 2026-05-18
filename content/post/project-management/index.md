@@ -38,9 +38,9 @@ Accommodations across the route leverage the exceptional network of **Swiss Yout
 
 ## 🌍 Linguistic Cartography & Immigrant History
 
-A fascinating observation during international travel is the duplication of toponyms. It is incredibly common to find identical city names scattered across both Europe and the United States. 
+A fascinating observation during international travel is the duplication of toponyms. It is incredibly common to find identical city names scattered across both Europe and the United States. The prevalence of German, French, English, and Spanish city names across the U.S. landscape serves as a living map of global immigrant history. These names mark the historic migration corridors and settlement patterns of communities that sought to replicate a piece of their European heritage within the geography of the New World.
 
-The prevalence of German, French, English, and Spanish city names across the U.S. landscape serves as a living map of global immigrant history. These names mark the historic migration corridors and settlement patterns of communities that sought to replicate a piece of their European heritage within the geography of the New World.
+This historical lineage is equally apparent in interpersonal interactions. Surnames in the United States function as cultural artifacts; by paying attention to the linguistic roots of a person's last name, I can often accurately deduce their ancestral heritage or regional European origin—whether tracing back to the British Isles or distinct continental European nations—well before hearing their spoken accent.
 
 ---
 
@@ -52,7 +52,7 @@ Living and traveling in Europe often reveals a distinct shift in daily pacing, i
 A unique sense of social and personal freedom in Europe that operates differently than in the U.S. While deeply rooted in Christian and Catholic historical traditions, contemporary European youth often engage with faith in a more cultural with less religious restriction, personalized way rather than through rigid institutional practice. This pragmatic approach to social freedom is visible in how many European cities manage pragmatic social policies, legal frameworks, and designated nightlife or red-light districts with a focus on harm reduction and public safety rather than outright prohibition.
 
 ### Food Systems & Artisanal Tradition
-The differences in food production illustrate contrasting regulatory paradigms and cultural values. In many European regions, daily life centers around traditional, hand-made bread sourced from local bakeries using minimal, unadulterated ingredients. The freash bread is cheaper and easy access around living areas. If you never try the bread cooked by Franch, you never tast real bread. Conversely, the mass-market U.S. food system heavily relies on industrial, chemically leavened bread designed primarily for long shelf-life and high-volume commercial distribution. This contrast directly reflects Europe's broader cultural emphasis on slower, healthier, and more intentional dining.
+The differences in food production illustrate contrasting regulatory paradigms and cultural values. In many European regions, daily life centers around traditional, hand-made bread sourced from local bakeries using minimal, unadulterated ingredients. The freash bread is cheaper and easy access around living areas. If you never try the bread cooked by French, you never tast real bread. Conversely, the mass-market U.S. food system heavily relies on industrial, chemically leavened bread designed primarily for long shelf-life and high-volume commercial distribution. This contrast directly reflects Europe's broader cultural emphasis on slower, healthier, and more intentional dining.
 
 ### The Geography of Social Safety and Petty Crime
 Public safety and theft dynamics vary significantly by region across Europe, heavily influenced by local socio-economic factors and shifting demographic corridors. 
@@ -69,6 +69,5 @@ Note: this comparsion do not include UK.
 | Region / Country | Station Entry Style | Enforcement Mechanism | Societal Basis |
 | :--- | :--- | :--- | :--- |
 | **Nordic & Alpine Europe** | Open Platform (without any ticket and security check) | Random Proof-of-Payment Audits | High Social Trust & Civic Responsibility |
-| **Standard Global Transit** | Physical Turnstiles / Gates | Mandatory Electronic Scanning | Systemic Control & Verification |
 
 This open-platform architecture represents a highly evolved stage of social trust. Instead of relying on restrictive physical barriers, these societies operate on a collective honor system backed by intermittent, random audits. It stands as an inspiring blueprint for civic responsibility and infrastructural maturity that modernizing nations around the world look to replicate.
