@@ -1,5 +1,5 @@
 ---
-title: Attennd Conference
+title: Conferences
 summary: Embed videos, podcasts, code, LaTeX math, and test students!
 date: 2026-05-17
 math: true
@@ -19,7 +19,7 @@ image:
 
 The organization features a network of over 500 subject matter experts spanning the USA, India, Austria, Canada, Europe, Singapore, and Thailand. On average, its professional collective brings over 20 years of individual industry experience to the mission.
 
-**Annual Florida Agricultural Policy Outlook Conference - 2026 Apoka, FL**
+**Annual Florida Agricultural Policy Outlook Conference - 2025 Citrus, FL; 2026 Apoka, FL**
 
 Examines critical policy issues facing Florida agribusiness leaders and explores valuable economic insights helpful for making informed business and policy decisions. Optional facility tour included.
 
