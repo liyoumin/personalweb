@@ -15,22 +15,25 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-**INTERNATIONAL RESOURCE RECOVERY CONFERENCE & EXPO on WATER, WASTE MANAGEMENT, ONE HEALTH, and ENERGY - 2026 UF Gainesville, FL**
+**International Resource Recovery Conference & EXPO on WATER, WASTE MANAGEMENT, ONE HEALTH, and ENERGY - 2026 UF Gainesville, FL**
 
 The organization features a network of over 500 subject matter experts spanning the USA, India, Austria, Canada, Europe, Singapore, and Thailand. On average, its professional collective brings over 20 years of individual industry experience to the mission.
 
-**Annual Florida Agricultural Policy Outlook Conference - 2025 Citrus, FL; 2026 Apoka, FL**
+**Southern Economic Association (SEA) Annual Meeting - 2025, Tampa, FL**
 
-Examines critical policy issues facing Florida agribusiness leaders and explores valuable economic insights helpful for making informed business and policy decisions. Optional facility tour included.
+One of the oldest regional economics associations in the United States, bringing together scholars to advance applied economic analysis, present theoretical research, and address policy-relevant economic issues across diverse fields. Macro and Micro Economics.
 
 **Florida Agriculture Financial Management Conference - 2025 Orlando, FL**
 
 The event offers a dynamic platform for networking with peers, sharing best practices, and discussing the impact of current financial markets on agribusiness. Whether you manage a large farm, a small operation, or serve agricultural or horticulture clients in a financial or legal capacity, this conference is for you. We welcome farm owners and managers, CFOs, CPAs, controllers, accountants, bookkeepers, lenders, and attorneys who work in the ag sector. Both CPE and CLE credits will be available.
 
+**Annual Florida Agricultural Policy Outlook Conference - 2025 Citrus, FL; 2026 Apoka, FL**
+
+Examines critical policy issues facing Florida agribusiness leaders and explores valuable economic insights helpful for making informed business and policy decisions. Optional facility tour included.
 
 ## Video
 
-WWM; FLAFMC
+WWM; SEA; FLAFMC
 
 **Youtube**:
 
