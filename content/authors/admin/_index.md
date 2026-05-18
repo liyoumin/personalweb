@@ -185,7 +185,7 @@ Scholarship:
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
     date: "2024-09-01"
-    awarder: "University of Florida; China Scholarship Council" 4000 USD.
+    awarder: "University of Florida" 4000 USD.
     icon: "graduation-cap"
     summary: |
       Competitive scholarships supporting graduate study.
@@ -216,10 +216,10 @@ Scholarship:
     summary: |
       Competitive international scholarships supporting graduate study and academic exchange.
 
-  - title: "Grinter Fellowship"
+  - title: "Grinter Fellowship; Robert G Stubbs and Henry G Hamilton Scholarship"
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
-    date: "2024-10-01"
+    date: "2024-10-01"; "2026-08-22"
     awarder: "University of Florida"
     icon: "university"
     summary: |
