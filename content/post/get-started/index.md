@@ -49,7 +49,7 @@ The premier annual event for the Agricultural & Applied Economics Association. I
 **Date:** June 29 – July 3, 2026  
 **Location:** Nova SBE Campus, Carcavelos (Lisbon), Portugal  
 
-The premier global gathering organized by the World Council of Environmental and Resource Economists Associations (WCEREA). Bringing together researchers, policymakers, and practitioners from around the world to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
+The premier global gathering organized every four years by the World Council of Environmental and Resource Economists Associations (WCEREA). It brings together researchers, policymakers, and practitioners from the leading global associations—including **AERE**(Association of Environmental and Resource Economists (North America)), **EAERE&EAAE**(European Association of Environmental and Resource Economists), **AAERE**(Asian Association of Environmental and Resource Economics), and **AFAERE**(African Association of Environmental and Resource Economists), along with observiable commitee/partner associations **LAERE**(Latin American Association of Environmental and Resource Economists) and **AARES**(Australasian Agricultural and Resource Economics Society)—to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
 
 ## Korean Agricultural Economics Association (KAEA) Annual Meeting
 **Date:** July 2024  
