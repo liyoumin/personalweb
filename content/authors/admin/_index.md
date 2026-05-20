@@ -149,7 +149,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 Awards:
-
+  - title: "Harold B. Clark Award"
+    url: "https://giving.uff.ufl.edu/giving-opportunities/016633-harold-b-clark-award/"
+    certificate_url: ""
+    date: "2026-09-01"
+    awarder: "University of Florida"
+    icon: "graduation-cap"
+    summary: |
+      Competitive scholarship supporting graduate student study ($2,500).
+    
   - title: "CSC Scholarship"
     url: "https://www.csc.edu.cn/"
     certificate_url: "https://www.csc.edu.cn/"
