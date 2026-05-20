@@ -159,7 +159,7 @@ Awards:
       Competitive scholarship supporting graduate student study ($2,500).
     
   - title: "CSC Scholarship"
-    url: "https://www.csc.edu.cn/"
+    url: "https://us.china-embassy.gov.cn/eng/lxfw/studyinchina/chinesegovernmentscholarship/202501/t20250104_11527005.htm"
     certificate_url: "https://www.csc.edu.cn/"
     date: "2026-06-01"
     awarder: "China Scholarship Council"
