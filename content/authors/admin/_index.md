@@ -151,7 +151,7 @@ languages:
 Awards:
   - title: "Harold B. Clark Award"
     url: "https://giving.uff.ufl.edu/giving-opportunities/016633-harold-b-clark-award/"
-    certificate_url: ""
+    certificate_url: "https://github.com/liyoumin/personalweb/blob/main/assets/media/Li%2CY_HB%20Clark%20Scholarship%20Notification.pdf"
     date: "2026-09-01"
     awarder: "University of Florida"
     icon: "graduation-cap"
