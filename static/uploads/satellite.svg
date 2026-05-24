@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80">
+  <rect width="120" height="80" fill="#eef2ff" rx="6"/>
+  <g transform="translate(12,12)">
+    <rect width="96" height="56" fill="#fff" stroke="#c7d2fe" rx="4"/>
+    <circle cx="22" cy="28" r="12" fill="#60a5fa"/>
+    <path d="M50 8 L78 8 L78 48 L50 48 Z" fill="#a78bfa"/>
+    <text x="6" y="52" font-size="8" fill="#374151">Satellite imagery</text>
+  </g>
+</svg>

@@ -18,10 +18,20 @@ Economic questions about yields, input use efficiency, market access, risk, and 
 
 Key technologies & methods
 
+![Satellite remote sensing](/uploads/satellite.svg)
+*Figure 1: Satellite remote sensing (Sentinel/Landsat) provides multispectral time-series for vegetation and land-cover analysis.*
+
 - Remote sensing & GIS: multispectral and radar satellites (e.g., Sentinel, Landsat) and GIS layers provide vegetation indices, soil moisture proxies, land-cover maps, and infrastructure/accessibility measures.
+
+![Drone imagery](/uploads/drone.svg)
+*Figure 2: UAV/drone imagery for very-high-resolution plot-level observation and validation.*
+
 - Drones (UAVs): flexible, very-high-resolution imagery for plot-level phenotyping, damage assessment, and ground-truthing satellite products.
 - Machine learning & data fusion: supervised models (random forests, XGBoost, convolutional networks) and deep-learning architectures combine imagery with socio-economic covariates to predict yield, classify crop types, and detect stress.
 - Spatial econometrics: integrate spatial dependence and heterogeneity into causal inference and valuation exercises.
+
+![Machine learning schematic](/uploads/ml.svg)
+*Figure 3: Machine learning and data fusion combine imagery with economic covariates.*
 
 Representative applications
 
@@ -42,7 +52,6 @@ Opportunities & next steps
 
 Integrating economic theory with spatial AI opens opportunities for targeted interventions, more precise impact evaluation, and scalable decision-support tools for policymakers and farmers. Collaboration between economists, remote sensing specialists, and data scientists is key.
 
-
 Example: NDVI-based yield regression (short snippet)
 
 The following minimal Python example shows computing NDVI from Red/NIR bands and training a simple regression model using per-plot NDVI statistics. This is a schematic snippet — adapt file paths, CRS handling, and zonal extraction for real data.
@@ -54,7 +63,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 
 def ndvi(nir, red):
-	return (nir - red) / (nir + red + 1e-6)
+    return (nir - red) / (nir + red + 1e-6)
 
 # === Step 1: load bands (example: arrays already read with rasterio) ===
 # red = ...  # 2D numpy array
@@ -91,5 +100,3 @@ Bringing remote sensing, GIS, drones, and machine learning into agricultural eco
 Author
 
 This post was prepared by the site maintainer. For questions or collaboration requests, open an issue in the repository or contact the author via the site contact form.
-
-If you'd like, I can expand this into a longer article, add figures/examples, or include more detailed code (zonal statistics, GEE notebook, or a reproducible pipeline).
