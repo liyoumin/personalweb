@@ -18,7 +18,7 @@ Economic questions about yields, input use efficiency, market access, risk, and 
 
 Key technologies & methods
 
-![Agricultural Dairy](static/uploads/agriculture/IMG_3930.jpg)
+![Agricultural Dairy](/static/uploads/agriculture/IMG_3930.jpg)
 *Figure 1: Agricultural economics and crop distribution at the pixel level (3930).*
 
 - Remote sensing & GIS: multispectral and radar satellites (e.g., Sentinel, Landsat) and GIS layers provide vegetation indices, soil moisture proxies, land-cover maps, and infrastructure/accessibility measures.
