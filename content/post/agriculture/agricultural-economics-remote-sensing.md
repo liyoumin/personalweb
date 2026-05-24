@@ -24,7 +24,7 @@ Key technologies & methods
 - Remote sensing & GIS: multispectral and radar satellites (e.g., Sentinel, Landsat) and GIS layers provide vegetation indices, soil moisture proxies, land-cover maps, and infrastructure/accessibility measures.
 
 ![Remote sensing figure](/agriculture/IMG_3939.jpg)
-![Remote sensing figure](/agriculture/drone.jpg)
+![Drone](/agriculture/drone.jpg)
 
 - Drones (UAVs): flexible, very-high-resolution imagery for plot-level phenotyping, damage assessment, and ground-truthing satellite products.
 - Machine learning & data fusion: supervised models (random forests, XGBoost, convolutional networks) and deep-learning architectures combine imagery with socio-economic covariates to predict yield, classify crop types, and detect stress.
