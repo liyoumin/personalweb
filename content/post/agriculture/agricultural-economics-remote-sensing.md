@@ -18,20 +18,20 @@ Economic questions about yields, input use efficiency, market access, risk, and 
 
 Key technologies & methods
 
-![Satellite remote sensing](/uploads/satellite.svg)
-*Figure 1: Satellite remote sensing (Sentinel/Landsat) provides multispectral time-series for vegetation and land-cover analysis.*
+![Agricultural economics figure](/uploads/3930-agriculture.svg)
+*Figure 1: Agricultural economics and crop distribution at the pixel level (3930).* 
 
 - Remote sensing & GIS: multispectral and radar satellites (e.g., Sentinel, Landsat) and GIS layers provide vegetation indices, soil moisture proxies, land-cover maps, and infrastructure/accessibility measures.
 
-![Drone imagery](/uploads/drone.svg)
-*Figure 2: UAV/drone imagery for very-high-resolution plot-level observation and validation.*
+![Remote sensing figure](/uploads/3939-remote-sensing.svg)
+*Figure 2: Remote sensing field observation and livestock infrastructure (3939).* 
 
 - Drones (UAVs): flexible, very-high-resolution imagery for plot-level phenotyping, damage assessment, and ground-truthing satellite products.
 - Machine learning & data fusion: supervised models (random forests, XGBoost, convolutional networks) and deep-learning architectures combine imagery with socio-economic covariates to predict yield, classify crop types, and detect stress.
 - Spatial econometrics: integrate spatial dependence and heterogeneity into causal inference and valuation exercises.
 
-![Machine learning schematic](/uploads/ml.svg)
-*Figure 3: Machine learning and data fusion combine imagery with economic covariates.*
+![CDL / ML figure](/uploads/cdl-ml.svg)
+*Figure 3: CDL and machine learning overlay for field-scale analysis.*
 
 Representative applications
 
