@@ -18,19 +18,19 @@ Economic questions about yields, input use efficiency, market access, risk, and 
 
 Key technologies & methods
 
-![Agricultural economics figure](/uploads/IMG_3930.jpg)
+![Agricultural economics figure](/agriculture/IMG_3930.jpg)
 *Figure 1: Agricultural economics and crop distribution at the pixel level (3930).* 
 
 - Remote sensing & GIS: multispectral and radar satellites (e.g., Sentinel, Landsat) and GIS layers provide vegetation indices, soil moisture proxies, land-cover maps, and infrastructure/accessibility measures.
 
-![Remote sensing figure](/uploads/3939-remote-sensing.svg)
-*Figure 2: Remote sensing field observation and livestock infrastructure (3939).* 
+![Remote sensing figure](/agriculture/IMG_3939.jpg)
+![Remote sensing figure](/agriculture/drone.jpg)
 
 - Drones (UAVs): flexible, very-high-resolution imagery for plot-level phenotyping, damage assessment, and ground-truthing satellite products.
 - Machine learning & data fusion: supervised models (random forests, XGBoost, convolutional networks) and deep-learning architectures combine imagery with socio-economic covariates to predict yield, classify crop types, and detect stress.
 - Spatial econometrics: integrate spatial dependence and heterogeneity into causal inference and valuation exercises.
 
-![CDL / ML figure](/uploads/cdl-ml.svg)
+![CDL / ML figure](/agriculture/cdl_spei.jpg)
 *Figure 3: CDL and machine learning overlay for field-scale analysis.*
 
 Representative applications
