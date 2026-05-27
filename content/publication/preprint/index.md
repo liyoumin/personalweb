@@ -24,13 +24,11 @@ tags:
   - "Machine learning, Consumption, olive Oil"
 
 featured: true
-
-links:
 url_slides: "slides.pdf"
 url_preprint: "preprint.pdf"
 url_project: "summary.pdf"
 
-
+links:
   - name: Code
     url: "https://github.com/liyoumin/Machine-learning"
     icon_pack: fab
