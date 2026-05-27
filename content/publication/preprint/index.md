@@ -41,7 +41,6 @@ url_slides: "/slides.pdf"
 url_video: "https://liyoumin.github.io/personalweb/teaching/js/"
 url_code: ""
 url_dataset: "#"
-url_poster: "#"
 url_source: ""
 url_project: "/summary.pdf"
 
