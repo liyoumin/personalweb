@@ -36,13 +36,26 @@ featured: true
 
 # 👉 PDF is in the same folder as this index.md
 
-url_pdf: ""
-url_slides: "/slides.pdf"
-url_video: "https://liyoumin.github.io/personalweb/teaching/js/"
-url_code: ""
-url_dataset: "#"
-url_source: ""
-url_project: "/summary.pdf"
+- name: Machine Learning Project
+    url: "/publication/preprint/Machine_learning_project.pdf"
+    icon_pack: fas
+    icon: file-invoice
+  - name: Preprint
+    url: "/publication/preprint/preprint.pdf"
+    icon_pack: fas
+    icon: file-invoice
+  - name: Slides
+    url: "/publication/preprint/slides.pdf"
+    icon_pack: fas
+    icon: file-invoice
+  - name: Summary
+    url: "/publication/preprint/summary.pdf"
+    icon_pack: fas
+    icon: file-invoice
+  - name: Code
+    url: "https://github.com/liyoumin/personalweb" # Replace with your specific repository sub-link if needed
+    icon_pack: fab
+    icon: github
 
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
