@@ -26,22 +26,11 @@ tags:
 featured: true
 
 links:
-  - name: ML Project
-    url: "/publication/preprint/Machine_learning_project.pdf"
-    icon_pack: fas
-    icon: file-invoice
-  - name: Preprint
-    url: "/publication/preprint/preprint.pdf"
-    icon_pack: fas
-    icon: file-invoice
-  - name: Slides
-    url: "/publication/preprint/slides.pdf"
-    icon_pack: fas
-    icon: file-invoice
-  - name: Summary
-    url: "/publication/preprint/summary.pdf"
-    icon_pack: fas
-    icon: file-invoice
+url_slides: "slides.pdf"
+url_preprint: "preprint.pdf"
+url_project: "summary.pdf"
+
+
   - name: Code
     url: "https://github.com/liyoumin/Machine-learning"
     icon_pack: fab
