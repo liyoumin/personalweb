@@ -27,7 +27,7 @@ featured: true
 
 links:
   - name: ML Project
-    url: "https://github.com/liyoumin/personalweb/blob/main/content/publication/preprint/Machine_learning_project.pdf"
+    url: "/publication/preprint/Machine_learning_project.pdf"
     icon_pack: fas
     icon: file-invoice
   - name: Preprint
@@ -35,11 +35,11 @@ links:
     icon_pack: fas
     icon: file-invoice
   - name: Slides
-    url: "https://github.com/liyoumin/personalweb/blob/main/content/publication/preprint/slides.pdf"
+    url: "/publication/preprint/slides.pdf"
     icon_pack: fas
     icon: file-invoice
   - name: Summary
-    url: "https://github.com/liyoumin/personalweb/blob/main/content/publication/preprint/summary.pdf"
+    url: "/publication/preprint/summary.pdf"
     icon_pack: fas
     icon: file-invoice
   - name: Code
