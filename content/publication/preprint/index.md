@@ -25,12 +25,12 @@ tags:
 
 featured: true
 url_slides: "slides.pdf"
-url_preprint: "preprint.pdf"
+url_pdf: "preprint.pdf"
 url_project: "summary.pdf"
 
 links:
   - name: Code
-    url: "https://github.com/liyoumin/Machine-learning"
+    url: "https://github.com/liyoumin/Machine-learning-project"
     icon_pack: fab
     icon: github
 
