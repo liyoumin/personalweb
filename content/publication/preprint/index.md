@@ -25,7 +25,7 @@ tags:
 
 featured: true
 url_slides: "slides.pdf"
-url_pdf: "preprint.pdf"
+url_preprint: "preprint.pdf"
 url_project: "summary.pdf"
 
 links:
