@@ -68,9 +68,17 @@ An intensive workshop focused on the operation of the Decision Support System fo
 
 **Date:** May 30 – June 2, 2026  
 **Activities:** Annual Summer Meetings & Southern Outlook Conference  
-**Focus:** Regional Academic Collaboration  
+**Focus:** Regional Academic Collaboration
+**Location:** Pensacola, Florida
 
 A collaborative committee comprised of extension agricultural economists across the 13-state southern region. The committee facilitates the sharing of methodology, coordinates multi-state research applications, and drives regional agricultural insights—including the joint peer-reviewed analysis and daily insights published via *Southern Ag Today*.
+
+## WERA 72 program
+**Date:** Jun 3 – June 4, 2026  
+**Activities:** Western Education Extension and Research Activities Committee on Agribusiness
+**Focus:** Regional Academic Collaboration  
+**Location:** Logan, Utah
+Exploring the Impact of Artificial Intelligence on Agribusiness
 
 ### Get Started
 
