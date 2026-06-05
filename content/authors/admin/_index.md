@@ -203,13 +203,13 @@ Awards:
     summary: |
       Competitive international scholarship supporting graduate study and academic exchange. Amount: 3 million Korean won.
   
-  - title: UF Research Grad Travel Grant
+  - title: UF Research Grad Travel Grant; IFAS Travle Grants
     url: https://wcere2026.org/
     date: '2026-04-29'
-    awarder: UF resarch center
+    awarder: UF resarch center; Institute of Food & Agricultural Science 
     icon: <i class="fas fa-university"></i> 
     summary: |
-       UF Research Grad Travel Grant $400.
+       $400 UF Research Grad Travel Grant. $250 IFAS travel grants. 
 
   - title: WCERE Sponsored Travel Grant
     url: https://wcere2026.org/
@@ -217,15 +217,15 @@ Awards:
     awarder: WCERE
     icon: <i class="fas fa-university"></i> 
     summary: |
-        800 euros.
+        800 euros participation grants for the World Congress Environmental & Resource Economics in Lisbon, Portugal 2026.
     
-  - title: AAEA Section Sponsored Travel Grant (COSBAE) 
+  - title: AAEA Section Sponsored Travel Grant (COSBAE); AAEA Trust Committee 
     url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
-    date: '2025-07-29'
+    date: '2026-05-29'
     awarder: AAEA
     icon: <i class="fas fa-university"></i> 
     summary: |
-      $500.
+      $500 for the AAEA 2025 in Denver, CO; $500 for the AAEA 2026 in Kansas city, MO.
     
   - title: 3rd. Prize of the 12th National University Mathematics Competition 
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
