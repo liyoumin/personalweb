@@ -60,12 +60,10 @@ The premier global gathering organized every 4 years by the World Council of Env
 
 [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
-### Acknowledgements
-I am deeply grateful for the generous travel support making my presentation at the World Congress possible:
-* **WCERE Congress** <span class="badge badge-light">€800</span>
-* **UF Research Graduate Travel Grant** <span class="badge badge-light">$400</span>
-* **UF/IFAS Travel Grant** <span class="badge badge-light">$250</span>
-* **Prof. Andrew Schmitz** (Faculty Support)
+{{< alert note >}}
+# 🌍 Travel & Research Support
+I am deeply grateful for the travel support provided by the **WCERE Congress** (€800), the **UF Research Graduate Travel Grant** ($400), the **UF/IFAS Travel Grant** ($250), and **Prof. Andrew Schmitz**, which makes my presentation at the World Congress possible.
+{{< /alert >}}
   
 ## Korean Agricultural Economics Association (KAEA) Annual Meeting
 **Date:** July 2024  
