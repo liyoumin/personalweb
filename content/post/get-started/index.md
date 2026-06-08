@@ -58,10 +58,15 @@ Those helps encourage the next generation of agricultural and applied economists
 
 The premier global gathering organized every 4 years by the World Council of Environmental and Resource Economists Associations (WCEREA). It brings together researchers, policymakers, and practitioners from the leading global associations—including **AERE**(Association of Environmental and Resource Economists (North America)), **EAERE&EAAE**(European Association of Environmental and Resource Economists), **AAERE**(Asian Association of Environmental and Resource Economics), and **AFAERE**(African Association of Environmental and Resource Economists), along with observiable commitee/partner associations **LAERE**(Latin American Association of Environmental and Resource Economists) and **AARES**(Australasian Agricultural and Resource Economics Society)—to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
 
-Appericate travel grants from WCERE (800 Euros), Grad travel grant from UF research ('$400'), IFAS - travel grants ('$250'), and Prof. Schmitz's support.
-
 [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
+### Acknowledgements
+I am deeply grateful for the generous travel support making my presentation at the World Congress possible:
+* **WCERE Congress** <span class="badge badge-light">€800</span>
+* **UF Research Graduate Travel Grant** <span class="badge badge-light">$400</span>
+* **UF/IFAS Travel Grant** <span class="badge badge-light">$250</span>
+* **Prof. Andrew Schmitz** (Faculty Support)
+  
 ## Korean Agricultural Economics Association (KAEA) Annual Meeting
 **Date:** July 2024  
 **Location:** Seoul National University, Seoul, South Korea  
