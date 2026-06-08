@@ -1,7 +1,7 @@
 ---
 title: Extension Conferences/Meetings Attended
 summary: Regional Conference
-date: 2026-05-17
+date: 2026-05-27
 math: true
 
 tags:
