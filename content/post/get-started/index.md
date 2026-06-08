@@ -61,7 +61,6 @@ The premier global gathering organized every 4 years by the World Council of Env
 [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
 {{< alert note >}}
-# 🌍 Travel & Research Support
 I am deeply grateful for the travel support provided by the **WCERE Congress** (€800), the **UF Research Graduate Travel Grant** ($400), the **UF/IFAS Travel Grant** ($250), and **Prof. Andrew Schmitz**, which makes my presentation at the World Congress possible.
 {{< /alert >}}
   
