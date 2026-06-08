@@ -1,6 +1,6 @@
 ---
 title: "Agricultural Economics Integrates Remote Sensing, Drones & Machine Learning"
-date: 2026-05-23T12:00:00+00:00
+date: 2025-05-23T12:00:00+00:00
 draft: false
 categories: ["post", "agriculture", "research"]
 tags: ["agricultural economics", "remote sensing", "GIS", "drone", "UAV", "machine learning"]
