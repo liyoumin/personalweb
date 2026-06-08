@@ -56,7 +56,7 @@ The premier global gathering organized every four years by the World Council of 
 
 Appericate travel grants from WCERE (800 Euros), Grad travel grant from UF research ($400), IFAS travel grants ($250), and Prof. Schmitz's support.
 
-    * [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
+[📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
 ## Korean Agricultural Economics Association (KAEA) Annual Meeting
 **Date:** July 2024  
