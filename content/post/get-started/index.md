@@ -15,7 +15,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
 
-**Conferences:** AAEA in Denver, CO, July 2025; SEEC in Pensacola, FL, May 2025; AAEA in Kansas City, MO, July 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal, June 2026; Korean Agricultural Economics Association (KAEA), Seoul, South Korea, July 2024
+**Conferences:** AAEA in Kansas City, MO, July 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal, June 2026; AAEA in Denver, CO, July 2025; SEEC in Pensacola, FL, May 2025; Korean Agricultural Economics Association (KAEA), Seoul, South Korea, July 2024
 
 **Workshops:**
 DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA; 
@@ -44,8 +44,7 @@ Welcome to check it out👋
 
 The premier annual event for the Agricultural & Applied Economics Association. It brings together agricultural, environmental, and applied economists from academia, government, and industry worldwide to present cutting-edge research, discuss policy analysis, and engage in professional development workshops.
 
-AAEA COBSAE section award $500 travel grant to me to support my participation in the 2025 AAEA Annual Meeting in Denver, Co.
-AAEA Trust Committee award me a Travel Grant to support my participation in the 2026 AAEA Annual Meeting in Kansas City, Mo. That helps encourage the next generation of agricultural and applied economists and will distribute travel grant funds in the amount of $500 USD following the conference.
+AAEA COBSAE section award $500 travel grant to me to support my participation in the 2025 AAEA Annual Meeting in Denver, Co. AAEA Trust Committee award me a Travel Grant to support my participation in the 2026 AAEA Annual Meeting in Kansas City, Mo. That helps encourage the next generation of agricultural and applied economists and will distribute travel grant funds in the amount of $500 USD following the conference.
 
 ## World Congress of Environmental and Resource Economists (WCERE 2026)
 
@@ -54,7 +53,7 @@ AAEA Trust Committee award me a Travel Grant to support my participation in the 
 
 The premier global gathering organized every four years by the World Council of Environmental and Resource Economists Associations (WCEREA). It brings together researchers, policymakers, and practitioners from the leading global associations—including **AERE**(Association of Environmental and Resource Economists (North America)), **EAERE&EAAE**(European Association of Environmental and Resource Economists), **AAERE**(Asian Association of Environmental and Resource Economics), and **AFAERE**(African Association of Environmental and Resource Economists), along with observiable commitee/partner associations **LAERE**(Latin American Association of Environmental and Resource Economists) and **AARES**(Australasian Agricultural and Resource Economics Society)—to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
 
-Appericate travel grants from WCERE (800 Euros), Grad travel grant from UF research ($400), IFAS travel grants ($250), and Prof. Schmitz's support.
+Appericate travel grants from WCERE (800 Euros), Grad travel grant from UF research ($400), IFAS - travel grants ($250), and Prof. Schmitz's support.
 
 [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
