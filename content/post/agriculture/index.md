@@ -1,5 +1,5 @@
 ---
-title: "Agricultural Economics Meets Remote Sensing, Drones & Machine Learning"
+title: "Agricultural Economics Integrates Remote Sensing, Drones & Machine Learning"
 date: 2026-05-23T12:00:00+00:00
 draft: false
 categories: ["post", "agriculture", "research"]
