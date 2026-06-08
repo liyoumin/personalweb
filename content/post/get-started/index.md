@@ -46,7 +46,7 @@ Welcome to check it out👋
 The premier annual event for the Agricultural & Applied Economics Association. It brings together agricultural, environmental, and applied economists from academia, government, and industry worldwide to present cutting-edge research, discuss policy analysis, and engage in professional development workshops.
 
 2026 AAEA Trust Committee award $500 Travel Grant to support my participation in the Annual Meeting in Kansas City, Mo. 2025 AAEA COBSAE section award $500 travel grant to me to support my participation in the Annual Meeting in Denver, Co. And grateful for additional support from my department and advisors.
-Those helps encourage the next generation of agricultural and applied economists and will distribute travel grant funds in the amount of $500 USD following the conference.
+Those helps encourage the next generation of agricultural and applied scientists.
 
 ## World Congress of Environmental and Resource Economists (WCERE 2026)
 
