@@ -30,7 +30,7 @@ Erasmus IMRD - Small Farms and Agro-ecosystem Services, Pisa University & Garfag
 *  **Revalorizing Garfagnana's Environment by Enhancing Chestnut Value Chain** *Presented by Youmin Li, Sandra Wickart, Hannah-Celine Caminada in Garfagnana Municipality City Hall, Italy (2023)*
 *  **The trust perception impact on Consumption Choice of Olive Oil: Case from Spain** *Paper presented at the KAEA Annual Meeting, Seoul National University, South Korea (2024)*
 
-**Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Environmental & Resource Economics Session (2026); Presenter in Experimental Economics session (2026); Presenter in Extension Economics Water Resource session (2025, 2026)
+**Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Environmental Economics and Policy Session (2026); Presenter in the World of Experimental Economics session (2026); Presenter in Extension Economics Water Resource session (2025, 2026)
 
 Welcome to check it out👋
 
@@ -54,7 +54,9 @@ AAEA Trust Committee award me a Travel Grant to support my participation in the 
 
 The premier global gathering organized every four years by the World Council of Environmental and Resource Economists Associations (WCEREA). It brings together researchers, policymakers, and practitioners from the leading global associations—including **AERE**(Association of Environmental and Resource Economists (North America)), **EAERE&EAAE**(European Association of Environmental and Resource Economists), **AAERE**(Asian Association of Environmental and Resource Economics), and **AFAERE**(African Association of Environmental and Resource Economists), along with observiable commitee/partner associations **LAERE**(Latin American Association of Environmental and Resource Economists) and **AARES**(Australasian Agricultural and Resource Economics Society)—to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
 
-Appericate travel grants from WCERE (800 Euros), Grad travel grant from UF research ($400); IFAS travel grants ($250)
+Appericate travel grants from WCERE (800 Euros), Grad travel grant from UF research ($400), IFAS travel grants ($250), and Prof. Schmitz's support.
+
+    * [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
 ## Korean Agricultural Economics Association (KAEA) Annual Meeting
 **Date:** July 2024  
