@@ -203,13 +203,13 @@ Awards:
     summary: |
       Competitive international scholarship supporting graduate study and academic exchange. Amount: 3 million Korean won.
   
-  - title: UF Research Grad Travel Grant; IFAS Travle Grants
+  - title: UF Research Grad Travel Grant; IFAS Grad Travle Grant; Davidson Graduate Student Travel Scholarship
     url: https://wcere2026.org/
-    date: '2026-04-29'
+    date: '2026-05-29'
     awarder: UF resarch center; Institute of Food & Agricultural Science 
     icon: <i class="fas fa-university"></i> 
     summary: |
-       $400 UF Research Grad Travel Grant. $250 IFAS travel grants. 
+       $400 UF Research Grad Travel Grant. $250 IFAS travel grants. $650 Davidson Travel Scholarship.
 
   - title: WCERE Sponsored Travel Grant
     url: https://wcere2026.org/
