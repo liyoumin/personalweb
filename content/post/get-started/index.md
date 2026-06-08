@@ -23,12 +23,13 @@ Erasmus IMRD - Small Farms and Agro-ecosystem Services, Pisa University & Garfag
 
 **Presentation:**
 * **Tariffs' Impacts on China's Dairy Production System: The Case of Twin Tariffs** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & WCERE, Lisbon, Portugal (2026)*
-* **Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & SEEC, Pensacola, FL (2025)*
 * **Spatial Heterogeneity of Drought Shocks and Irrigation Buffers in the U.S. Alfalfa System** *Poster presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
 * **Conserving Water in U.S. Alfalfa Production: Implications of Smart Irrigation under Drought** *Policy brief presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
-* **Consumer Perceptions and Olive Oil Choice: An Integrated Machine-Learning Approach for Measurement, Segmentation, and Prediction** *Paper presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
-*  **Revalorizing Garfagnana's Environment by Enhancing Chestnut Value Chain** *Presented by Youmin Li, Sandra Wickart, Hannah-Celine Caminada in Garfagnana Municipality City Hall, Italy (2023)*
+* **Consumer Perceptions and Olive Oil Choice: An Integrated Machine-Learning Approach for Measurement, Segmentation, and Prediction** *Paper presented at the AAEA Annual Meeting, Kansas City, MO (2026) & WERA 72 program annual meeting, Logan, UT (2026)*
+* **Payment for Ecosystem Services in the Era of Sustainable Agriculture: Insights from The Northern Everglades Payment for Environmental Services Program** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & SEEC, Pensacola, FL (2025)*
 *  **The trust perception impact on Consumption Choice of Olive Oil: Case from Spain** *Paper presented at the KAEA Annual Meeting, Seoul National University, South Korea (2024)*
+*  **Revalorizing Garfagnana's Environment by Enhancing Chestnut Value Chain** *Presented by Youmin Li, Sandra Wickart, Hannah-Celine Caminada in Garfagnana Municipality City Hall, Italy (2023)*
+
 
 **Roles:** Assigned the role of moderator in International Development Trade, Markets, and Policy Lightning Session 1 (2025); Presenter in Environmental Economics and Policy Session (2026); Presenter in the World of Experimental Economics session (2026); Presenter in Extension Economics Water Resource session (2025, 2026)
 
@@ -55,7 +56,7 @@ Those helps encourage the next generation of agricultural and applied economists
 **Date:** June 29 – July 3, 2026  
 **Location:** Nova SBE Campus, Carcavelos (Lisbon), Portugal  
 
-The premier global gathering organized every four years by the World Council of Environmental and Resource Economists Associations (WCEREA). It brings together researchers, policymakers, and practitioners from the leading global associations—including **AERE**(Association of Environmental and Resource Economists (North America)), **EAERE&EAAE**(European Association of Environmental and Resource Economists), **AAERE**(Asian Association of Environmental and Resource Economics), and **AFAERE**(African Association of Environmental and Resource Economists), along with observiable commitee/partner associations **LAERE**(Latin American Association of Environmental and Resource Economists) and **AARES**(Australasian Agricultural and Resource Economics Society)—to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
+The premier global gathering organized every 4 years by the World Council of Environmental and Resource Economists Associations (WCEREA). It brings together researchers, policymakers, and practitioners from the leading global associations—including **AERE**(Association of Environmental and Resource Economists (North America)), **EAERE&EAAE**(European Association of Environmental and Resource Economists), **AAERE**(Asian Association of Environmental and Resource Economics), and **AFAERE**(African Association of Environmental and Resource Economists), along with observiable commitee/partner associations **LAERE**(Latin American Association of Environmental and Resource Economists) and **AARES**(Australasian Agricultural and Resource Economics Society)—to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
 
 Appericate travel grants from WCERE (800 Euros), Grad travel grant from UF research ($400), IFAS - travel grants ($250), and Prof. Schmitz's support.
 
