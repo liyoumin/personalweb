@@ -192,7 +192,7 @@ Awards:
     awarder: "European Union Erasmus Mundus"
     icon: "graduation-cap"
     summary: |
-      Competitive international scholarship supporting graduate study in Europe. Support included a tuition waiver and 1,000 euros per month from 2022-09-01 to 2024-07-01.
+      Competitive international scholarship supporting graduate study in Europe. Support included a tuition waiver and €1,000 per month from 2022-09-01 to 2024-07-01.
  
   - title: "SNU Global Subsidy Scholarship"
     url: "https://health.snu.ac.kr/en/"
@@ -206,7 +206,7 @@ Awards:
   - title: UF Research Grad Travel Grant; IFAS Grad Travle Grant; Davidson Graduate Student Travel Scholarship
     url: https://wcere2026.org/
     date: '2026-05-29'
-    awarder: UF resarch center; Institute of Food & Agricultural Science 
+    awarder: UF resarch center; Institute of Food & Agricultural Science; Davidson Grant Doner 
     icon: <i class="fas fa-university"></i> 
     summary: |
        $400 UF Research Grad Travel Grant. $250 IFAS travel grants. $650 Davidson Travel Scholarship.
@@ -217,7 +217,7 @@ Awards:
     awarder: WCERE
     icon: <i class="fas fa-university"></i> 
     summary: |
-        800 euros participation grants for the World Congress Environmental & Resource Economics in Lisbon, Portugal 2026.
+        €800 participation grants for the World Congress Environmental & Resource Economics in Lisbon, Portugal 2026.
     
   - title: AAEA Section Sponsored Travel Grant (COSBAE); AAEA Trust Committee 
     url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
