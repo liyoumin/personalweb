@@ -37,7 +37,7 @@ Academic Conferences Resource in Agricultural Economics👋
 {{< toc mobile_only=true is_open=true >}}
 
 
-## Applied & Agriculturral Economics Association (AAEA&WAEA) Annual Meeting 
+## Agriculturral & Applied Economics Association (AAEA&WAEA) Annual Meeting 
 
 **Date:** July 25 – July 28, 2025; July 26 – July 29, 2026; July 25 - July 28, 2027
 **Location:** Denver, CO; Kansas, MO; Philadelphia, PA
@@ -80,7 +80,7 @@ The core national forum for agricultural and applied economics research in South
 
 An intensive workshop focused on the operation of the Decision Support System for Agrotechnology Transfer (DSSAT v4.8). Training emphasizes the simulation of crop growth, resource dynamics (water and nitrogen balance), climate change impact assessments, and the evaluation of sustainable agricultural management options. Assessing Crop Production, Water and Nutrient Management, Climatic Risk and Environmental Sustainability with Simulation Models.
 
-## Southern Extension Economics Committee
+## Southern Extension Economics Committee (SEEC)
 **Date:** May 30 – June 2, 2026  
 **Activities:** Annual Summer Meetings & Southern Outlook Conference  
 **Focus:** Regional Academic Collaboration
@@ -88,9 +88,8 @@ An intensive workshop focused on the operation of the Decision Support System fo
 
 A collaborative committee comprised of extension agricultural economists across the 13-state southern region. The committee facilitates the sharing of methodology, coordinates multi-state research applications, and drives regional agricultural insights—including the joint peer-reviewed analysis and daily insights published via *Southern Ag Today*.
 
-## WERA 72 program
+## Western Education Extension and Research Activities Committee on Agribusiness (WERA 72 program)
 **Date:** Jun 3 – June 4, 2026  
-**Activities:** Western Education Extension and Research Activities Committee on Agribusiness
 **Focus:** Regional Academic Collaboration, Exploring the Impact of Artificial Intelligence on Agribusiness
 **Location:** Logan, Utah
 
