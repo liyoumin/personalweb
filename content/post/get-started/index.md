@@ -20,7 +20,7 @@ image:
 DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA; 
 Erasmus IMRD - Small Farms and Agro-ecosystem Services, Pisa University & Garfagnana Municipality City Hall, Tuscany, Italy, July 2023
 
-**Presentation as 1st Author:**
+**Presentations:**
 * **Tariffs' Impacts on China's Dairy Production System: The Case of Twin Tariffs** *Paper presented at the AAEA Annual Meeting, Denver, CO (2025) & WCERE, Lisbon, Portugal (2026)*
 * **Spatial Heterogeneity of Drought Shocks and Irrigation Buffers in the U.S. Alfalfa System** *Poster presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
 * **Conserving Water in U.S. Alfalfa Production: Implications of Smart Irrigation under Drought** *Policy brief presented at the AAEA Annual Meeting, Kansas City, MO (2026)*
