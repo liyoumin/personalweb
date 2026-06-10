@@ -39,8 +39,8 @@ Academic Conferences Resource in Agricultural Economics👋
 
 ## Agriculturral & Applied Economics Association (AAEA&WAEA) Annual Meeting 
 
-**Date:** July 25 – July 28, 2025; July 26 – July 29, 2026; July 25 - July 28, 2027
-**Location:** Denver, CO; Kansas, MO; Philadelphia, PA
+**Date:** July 25 – July 28, 2025; July 26 – July 29, 2026; July 25 - July 28, 2027   
+**Location:** Denver, CO; Kansas, MO; Philadelphia, PA  
 
 The premier annual event for the Agricultural & Applied Economics Association. It brings together agricultural, environmental, and applied economists from academia, government, and industry worldwide to present cutting-edge research, discuss policy analysis, and engage in professional development workshops.
 
@@ -48,7 +48,7 @@ The premier annual event for the Agricultural & Applied Economics Association. I
 
 ## World Congress of Environmental and Resource Economists (WCERE 2026)
 
-**Date:** June 29 – July 3, 2026  
+**Date:** June 29 – July 3, 2026    
 **Location:** Nova SBE Campus, Carcavelos (Lisbon), Portugal  
 
 The premier global gathering organized every 4 years by the World Council of Environmental and Resource Economists Associations (WCEREA). It brings together researchers, policymakers, and practitioners from the leading global associations—including **AERE**(Association of Environmental and Resource Economists (North America)), **EAERE&EAAE**(European Association of Environmental and Resource Economists), **AAERE**(Asian Association of Environmental and Resource Economics), and **AFAERE**(African Association of Environmental and Resource Economists), along with observiable commitee/partner associations **LAERE**(Latin American Association of Environmental and Resource Economists) and **AARES**(Australasian Agricultural and Resource Economics Society)—to engage in high-level economic discussions addressing critical environmental, climate, and resource challenges.
@@ -63,7 +63,7 @@ I am deeply grateful for the travel support provided by the WCERE Congress (€8
 
 ## European Association of Agricultural Economics (EAAE) Congress
 **Date:** 29th. August 2023  
-**Location:** Rennes, France 
+**Location:** Rennes, France    
 The XVII Congress of the EAAE centered on "Agri-food systems in a changing world: Connecting science and society," bringing together global researchers to discuss effective policy, innovative agri-food strategies, and environmental sustainability.
 
 50th anniversary in Bonn, Germany in 2023. Focused on "Food System Transformation in Challenging Times," addressing resilience, climate crises, and technological innovations across the agricultural sector.
@@ -82,30 +82,29 @@ An intensive workshop focused on the operation of the Decision Support System fo
 
 ## Southern Extension Economics Committee (SEEC)
 **Date:** May 30 – June 2, 2026  
-**Activities:** Annual Summer Meetings & Southern Outlook Conference  
-**Focus:** Regional Academic Collaboration
+**Focus:** Regional Academic Collaboration    
 **Location:** Pensacola, Florida
 
 A collaborative committee comprised of extension agricultural economists across the 13-state southern region. The committee facilitates the sharing of methodology, coordinates multi-state research applications, and drives regional agricultural insights—including the joint peer-reviewed analysis and daily insights published via *Southern Ag Today*.
 
 ## Western Education Extension and Research Activities Committee on Agribusiness (WERA 72 program)
 **Date:** Jun 3 – June 4, 2026  
-**Focus:** Regional Academic Collaboration, Exploring the Impact of Artificial Intelligence on Agribusiness
+**Focus:** Regional Academic Collaboration, Exploring the Impact of Artificial Intelligence on Agribusiness   
 **Location:** Logan, Utah
 
 ## Asian Society of Agricultural Economists (ASAE) International Conference
-**Date:** March 17 – 20, 2023
+**Date:** March 17 – 20, 2023  
 **Location:** Tokyo, Japan
 The 11th ASAE International Conference focused on "Sustainable and Resilient Asian Agriculture and Food Systems in the Global World," providing a platform for academics and policymakers to discuss agricultural productivity, behavioral responses to shocks, and long-term welfare dynamics.
 
 ## International Association of Agricultural Economists (IAAE) Conference
-**Date:** August 2 – 7, 2024
-**Location:** New Delhi, India
+**Date:** August 2 – 7, 2024   
+**Location:** New Delhi, India   
 Serving as the 32nd International Conference of Agricultural Economists (ICAE), this event focused on the theme "Transformation Towards Sustainable Agri-Food Systems." Discussions centered on technological and institutional innovations, healthy diets, agroecology, and the role of agricultural economists in achieving global Sustainable Development Goals. Co-organized with ASAE.
 
 ## Australasian Agricultural & Resource Economics Society (AARES) Annual Conference
-**Date:** February 11 – 14, 2025
-**Location:** Brisbane, Australia
+**Date:** February 11 – 14, 2025   
+**Location:** Brisbane, Australia  
 The 69th AARES Annual Conference centered on "Meeting the Challenges of Transition to a Sustainable Future," addressing critical issues such as decarbonization, biodiversity preservation, food security, and the governance of emerging technologies.
 ### Get Started
 
