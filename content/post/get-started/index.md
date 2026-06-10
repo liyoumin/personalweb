@@ -14,7 +14,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://AAEA.com)'
 ---
 
-**Conferences:** AAEA in Kansas City, MO, July 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal, June 2026; AAEA in Denver, CO, July 2025; SEEC in Pensacola, FL, May 2025; Korean Agricultural Economics Association (KAEA), Seoul, South Korea, July 2024; Eurpean Association of Agricultural Economics Congress (EAAE), Renns, France, August 2023; Agricultural Economics Society (SEA) 100th Anniversary Conference, Oxford, England, March 2026.
+**Conferences:** AAEA in Kansas City, MO, July 2026; World Congress of Environmental and Resource Economists (WCERE), Lisbon, Portugal, June 2026; AAEA in Denver, CO, July 2025; SEEC in Pensacola, FL, May 2025; Korean Agricultural Economics Association (KAEA), Seoul, South Korea, July 2024; Eurpean Association of Agricultural Economics Congress (EAAE), Renns, France, August 2023; Agricultural Economics Society (SEA) 100th Anniversary Conference, Oxford, England, March 2026. International Association of Agricultural Economists (IAAE) Conference.
 
 **Workshops:**
 DSSAT International Training Program (Decision Support System for Agrotechnology Transfer), Griffin, GA; 
