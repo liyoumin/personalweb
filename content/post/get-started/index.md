@@ -55,7 +55,7 @@ The premier global gathering organized every 4 years by the World Council of Env
 
 [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
-I am deeply grateful for the travel support provided by the WCERE Congress (€800), the Davidson travel grant (&#36;650), the UF Research Graduate Travel Grant (&#36;400), the IFAS Travel Grant (&#36;250), and Prof. Andrew Schmitz, which make my presentation at the World Congress possible.
+I am deeply grateful for the travel support provided by the WCERE Congress (€800), the Davidson travel grant (&#36;650), the UF Research Graduate Travel Grant (&#36;400), the IFAS Travel Grant (&#36;250), Prof. Andrew Schmitz, and Prof. Lisa House which make my presentation at the World Congress possible.
 
 ## Agricultural Economics Society (AES) Centenary Conference (100th year).
 **Date:** 23rd. March 2026  
