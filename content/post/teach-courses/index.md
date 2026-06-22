@@ -27,6 +27,10 @@ One of the oldest regional economics associations in the United States, bringing
 
 The event offers a dynamic platform for networking with peers, sharing best practices, and discussing the impact of current financial markets on agribusiness. Whether you manage a large farm, a small operation, or serve agricultural or horticulture clients in a financial or legal capacity, this conference is for you. We welcome farm owners and managers, CFOs, CPAs, controllers, accountants, bookkeepers, lenders, and attorneys who work in the ag sector. Both CPE and CLE credits will be available.
 
+**AWRA Annual Meeting - 2026 Key West, FL**
+
+AWRA Florida Annual Meeting - Key West. This meeting is a great opportunity for students to network with consulting firms and regulatory staff so we invite you to consider attending. Registration is only $25 dollars for students.
+
 **Annual Florida Agricultural Policy Outlook Conference - 2025 Citrus, FL; 2026 Apoka, FL**
 
 Examines critical policy issues facing Florida agribusiness leaders and explores valuable economic insights helpful for making informed business and policy decisions. Optional facility tour included.
