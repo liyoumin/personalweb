@@ -47,7 +47,7 @@ interests:
   - Machine Learning, AI based Internet of Things(IoT), GIS and Remote Sensing Application in Agricultre
 
 education:
-  - area: PhD Agricultural Food & Resource Economics (expect 2028 May)
+  - area: Ph.D. Agricultural Food & Resource Economics (expect 2028 May) and Certificate - Applications in AI-based SmartAg Systems
     institution: University of Florida
     date_start: 2024-08-01
     date_end: 2028-05-31
@@ -238,7 +238,7 @@ Awards:
 
 ## About Me
 
-Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests include interdisplinary of Agricultural economics, machine learning, IoT, GIS and Remote Sensing application, and Agronomy. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S. 
+Youmin Li (李友民) is a PhD student in UF/IFAS EIAP. His research interests include interdisplinary of Agricultural economics, machine learning, IoT, GIS and Remote Sensing application in Agriculture. He has multi-countries studies experiences, including China, South Korea, Germany, Belgium, Italy, Spain and U.S. 
 Current working papers: International Trade-twin tariffs: {url: https://liyoumin.github.io/personalweb/publication/conference-paper/conference-paper.pdf }; 
 Olive Oil Consumption using Machine Learning Approach {url: https://liyoumin.github.io/personalweb/publication/preprint/preprint.pdf }; 
 Drought Impacts on Alfalfa {paper and presentation slides url: https://liyoumin.github.io/personalweb/project/scikit/ };
