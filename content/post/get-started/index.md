@@ -56,6 +56,7 @@ The premier global gathering organized every 4 years by the World Council of Env
 [📅 View My Session Details & Schedule](https://www.conftool.pro/wcere2026/index.php?page=browseSessions&form_date=all&form_session=263&presentations=show#paperID691)
 
 The sponsors and partners whose generous contributions have made this congress possible: AERE and the University of Chicago Press, publisher of the Journal of the Association of Environmental and Resource Economists (JAERE) and the Review of Environmental Economics and Policy (REEP), Elsevier, National Bank of Slovakia, Cascais Municipality and Bank of Portugal. More than 1000 scientific papers will be presentedacross parallel sessions, alongside 28 policy sessions, 32 thematic sessions, and 43 egg-timer sessions. A distinguished plenary program and special policy events will complement the scientific sessions.The social program will offerampleopportunitiesto renew old friendships and forge new ones, something many of us have been looking forward to after such a long time. 
+[Conference handbook](https://wcere2026.org/wp-content/uploads/2026/06/Handbook%20WCERE%202026%2017_06_15h00.pdf)
 
 I am deeply grateful for the travel support provided by the WCERE Congress (€800), the Davidson travel grant (&#36;650), the UF Research Graduate Travel Grant (&#36;400), the IFAS Travel Grant (&#36;250), Prof. Andrew Schmitz, and Prof. Lisa House which make my presentation at the World Congress possible.
 
