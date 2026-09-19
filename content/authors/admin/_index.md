@@ -158,14 +158,14 @@ Awards:
     summary: |
       Competitive scholarship supporting graduate student study ($2,500).
     
-  - title: "CSC Scholarship"
-    url: "https://us.china-embassy.gov.cn/eng/lxfw/studyinchina/chinesegovernmentscholarship/202501/t20250104_11527005.htm"
-    certificate_url: "https://www.csc.edu.cn/"
-    date: "2026-06-01"
-    awarder: "China Scholarship Council"
-    icon: "graduation-cap"
-    summary: |
-      Competitive scholarship supporting Chinese PhD graduate study in the U.S. ($6,000)
+ # - title: "CSC Scholarship"
+ #   url: "https://us.china-embassy.gov.cn/eng/lxfw/studyinchina/chinesegovernmentscholarship/202501/t20250104_11527005.htm"
+ #   certificate_url: "https://www.csc.edu.cn/"
+ #   date: "2026-06-01"
+ #   awarder: "China Scholarship Council"
+ #   icon: "graduation-cap"
+ #   summary: |
+ #     Competitive scholarship supporting Chinese PhD graduate study in the U.S. ($6,000)
 
   - title: "Robert G. Stubbs and Henry G. Hamilton Scholarship"
     url: "https://giving.uff.ufl.edu/giving-opportunities/014967-robert-g-stubbs-and-henry-g-hamilton-scholarship-fund/"
