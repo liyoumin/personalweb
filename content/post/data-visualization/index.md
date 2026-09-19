@@ -1,7 +1,7 @@
 ---
 title: 📈 Florida Agricultural Data Avaliablity Visualizations
 summary: Summary of Florida Agricultural Census Data access through USDA-NASS.
-date: 2025-05-08
+date: 2025-06-08
 authors:
   - admin
 tags:
