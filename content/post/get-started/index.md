@@ -2,7 +2,7 @@
 title: Academic Conferences/Worksop & Committees Presented
 summary: Overview of attended academic congress/confernce/workshop participation and regional extension meetings involvement.
 math: false
-date: 2026-06-07
+date: 2026-08-07
 
 tags:
   - Agricultural Economics
