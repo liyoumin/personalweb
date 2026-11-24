@@ -48,9 +48,9 @@ interests:
 
 education:
   - area: Ph.D. Agricultural Food & Resource Economics (expect 2028 May) and Certificate - Applications in AI-based SmartAg Systems
-    institution: University of Florida
+    institution: University of Florida (dropped out due visa renewal problem and funding unavaliable Satate Bill)
     date_start: 2024-08-01
-    date_end: 2028-05-31
+    date_end: 
     summary: |
       Three Essays on not yet.
     button:
